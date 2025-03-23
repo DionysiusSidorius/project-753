@@ -1,1 +1,6 @@
-
+-lexeme
+ lex: test
+ stem: test.
+ gramm: NOUN
+ paradigm: NOM
+ trans_en: testus
