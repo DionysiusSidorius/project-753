@@ -1,0 +1,12 @@
+-paradigm: NOM
+ -flex: .
+  gramm: sg
+ -flex: .s
+  gramm: pl
+  gloss: PL
+ -flex: .'s
+  gramm: sg,poss
+  gloss: POSS
+ -flex: .s'
+  gramm: pl,poss
+  gloss: POSS.PL
