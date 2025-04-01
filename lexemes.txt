@@ -4,3 +4,24 @@
  gramm: NOUN
  paradigm: NOM
  trans_en: testus
+
+-lexeme
+ lex: bueno
+ stem: buen.
+ gramm: ADJ
+ paradigm: ADJ
+ trans_en: good
+
+-lexeme
+ lex: animal
+ stem: animal.
+ gramm: NOUN
+ paradigm: NOM_C
+ trans_en: animal
+
+-lexeme
+ lex: rey
+ stem: rey.
+ gramm: NOUN
+ paradigm: NOM_C
+ trans_en: king
