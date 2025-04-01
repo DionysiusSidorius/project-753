@@ -1,12 +1,32 @@
 -paradigm: NOM
  -flex: .
   gramm: sg
+  gloss: SG
  -flex: .s
   gramm: pl
   gloss: PL
- -flex: .'s
-  gramm: sg,poss
-  gloss: POSS
- -flex: .s'
-  gramm: pl,poss
-  gloss: POSS.PL
+-paradigm: NOM_C
+ -flex: .
+  gramm: sg
+  gloss: SG
+ -flex: .es
+  gramm: pl
+  gloss: PL
+
+
+-paradigm: ADJ
+ -flex: .o
+  gramm:M.Sg
+ -flex: .a
+  gramm:F.Sg
+ -flex: .os
+  gramm:M.Pl
+ -flex: .as
+  gramm:F.Pl
+-paradigm: ADJ_C
+ -flex: .
+  gramm: sg
+  gloss: SG
+ -flex: .es
+  gramm: pl
+  gloss: PL
