@@ -25,3 +25,10 @@
  gramm: NOUN
  paradigm: NOM_C
  trans_en: king
+
+-lexeme
+ lex: mano
+ stem: mano.
+ gramm: NOUN
+ paradigm: NOM
+ trans_en: hand
