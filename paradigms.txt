@@ -12,7 +12,10 @@
  -flex: .es
   gramm: pl
   gloss: PL
-
+-paradigm: NOM_os
+ -flex: .
+  gramm: sg/pl
+  gloss: SG/PL
 
 -paradigm: ADJ
  -flex: .o
