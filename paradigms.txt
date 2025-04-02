@@ -33,3 +33,19 @@
  -flex: .es
   gramm: pl
   gloss: PL
+-paradigm: ADJ_e
+ -flex: .
+  gramm: sg
+  gloss: SG
+ -flex: .s
+  gramm: pl
+  gloss: PL
+-paradigm: ADJ_Ca
+ -flex: .
+  gramm:M.Sg
+ -flex: .a
+  gramm:F.Sg
+ -flex: .es
+  gramm:M.Pl
+ -flex: .as
+  gramm:F.Pl
