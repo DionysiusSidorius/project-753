@@ -1,3 +1,6 @@
+-paradigm: ZERO
+ -flex: .
+
 -paradigm: NOM
  -flex: .
   gramm: sg
