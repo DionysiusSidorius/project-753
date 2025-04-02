@@ -18,7 +18,7 @@
   gloss: SG/PL
 
 -paradigm: ADJ
- -flex: .o
+ -flex: .o|.
   gramm:M.Sg
  -flex: .a
   gramm:F.Sg
