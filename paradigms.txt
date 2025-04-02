@@ -37,7 +37,7 @@
  -flex: .
   gramm: sg
   gloss: SG
- -flex: .s
+ -flex: .s|.es
   gramm: pl
   gloss: PL
 -paradigm: ADJ_Ca
