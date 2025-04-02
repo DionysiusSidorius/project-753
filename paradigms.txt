@@ -34,10 +34,10 @@
   gramm: pl
   gloss: PL
 -paradigm: ADJ_e
- -flex: .
+ -flex: .|.e
   gramm: sg
   gloss: SG
- -flex: .s|.es
+ -flex: .es
   gramm: pl
   gloss: PL
 -paradigm: ADJ_Ca
