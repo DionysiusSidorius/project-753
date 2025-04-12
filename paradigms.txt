@@ -44,6 +44,7 @@
   gramm: pl
   gloss: PL
 -paradigm: ADJ_Ca
+
  -flex: .
   gramm:M.Sg
  -flex: .a
@@ -52,3 +53,49 @@
   gramm:M.Pl
  -flex: .as
   gramm:F.Pl
+
+
+
+-paradigm: V_a
+
+ -flex: .ar
+  gramm: INF
+
+ -flex: .o
+  gramm: PRS.1SG
+ -flex: .as
+  gramm: PRS.2SG
+ -flex: .a
+  gramm: PRS.3SG
+ -flex: .amos
+  gramm: PRS.1PL
+ -flex: .ades
+  gramm: PRS.2PL
+ -flex: .an
+  gramm: PRS.3PL
+
+ -flex: .aua|.aba
+  gramm: IMPERF.1SG
+ -flex: .auas|.abas
+  gramm: IMPERF.2SG
+ -flex: .aua|.aba
+  gramm: IMPERF.3SG
+ -flex: .auamos|.abamos
+  gramm: IMPERF.1PL
+ -flex: .auades|.abades
+  gramm: IMPERF.2PL
+ -flex: .auan|.aban
+  gramm: IMPERF.3PL
+
+ -flex: .e
+  gramm: PRS.SUBJ.1SG
+ -flex: .es
+  gramm: PRS.SUBJ.2SG
+ -flex: .e
+  gramm: PRS.SUBJ.3SG
+ -flex: .emos
+  gramm: PRS.SUBJ.1PL
+ -flex: .edes
+  gramm: PRS.SUBJ.2PL
+ -flex: .en
+  gramm: PRS.SUBJ.3PL
