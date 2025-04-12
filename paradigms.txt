@@ -57,10 +57,21 @@
 
 
 -paradigm: V_a
+
  -flex: .ar
   gloss: INF
  -flex: .ando
   gloss: GER
+
+ -flex: .ado
+  gloss: PART.M.SG
+ -flex: .ada
+  gloss: PART.F.SG
+ -flex: .ados
+  gloss: PART.M.PL
+ -flex: .adas
+  gloss: PART.F.PL
+
 
  -flex: .o
   gloss: PRS.IND.1SG
