@@ -86,17 +86,17 @@
  -flex: .an
   gloss: PRS.IND.3PL
 
- -flex: .aua|.aba
+ -flex: .aua//.aba
   gloss: IMPERF.IND.1SG
- -flex: .auas|.abas
+ -flex: .auas//.abas
   gloss: IMPERF.IND.2SG
- -flex: .aua|.aba
+ -flex: .aua//.aba
   gloss: IMPERF.IND.3SG
- -flex: .auamos|.abamos
+ -flex: .auamos//.abamos
   gloss: IMPERF.IND.1PL
- -flex: .auades|.abades
+ -flex: .auades//.abades
   gloss: IMPERF.IND.2PL
- -flex: .auan|.aban
+ -flex: .auan//.aban
   gloss: IMPERF.IND.3PL
 
  -flex: .e
