@@ -62,30 +62,30 @@
   gramm: INF
 
  -flex: .o
-  gramm: PRS.1SG
+  gramm: PRS.IND.1SG
  -flex: .as
-  gramm: PRS.2SG
+  gramm: PRS.IND.2SG
  -flex: .a
-  gramm: PRS.3SG
+  gramm: PRS.IND.3SG
  -flex: .amos
-  gramm: PRS.1PL
+  gramm: PRS.IND.1PL
  -flex: .ades
-  gramm: PRS.2PL
+  gramm: PRS.IND.2PL
  -flex: .an
-  gramm: PRS.3PL
+  gramm: PRS.IND.3PL
 
  -flex: .aua|.aba
-  gramm: IMPERF.1SG
+  gramm: IMPERF.IND.1SG
  -flex: .auas|.abas
-  gramm: IMPERF.2SG
+  gramm: IMPERF.IND.2SG
  -flex: .aua|.aba
-  gramm: IMPERF.3SG
+  gramm: IMPERF.IND.3SG
  -flex: .auamos|.abamos
-  gramm: IMPERF.1PL
+  gramm: IMPERF.IND.1PL
  -flex: .auades|.abades
-  gramm: IMPERF.2PL
+  gramm: IMPERF.IND.2PL
  -flex: .auan|.aban
-  gramm: IMPERF.3PL
+  gramm: IMPERF.IND.3PL
 
  -flex: .e
   gramm: PRS.SUBJ.1SG
