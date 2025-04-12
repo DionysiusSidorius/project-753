@@ -59,43 +59,43 @@
 -paradigm: V_a
 
  -flex: .ar
-  gramm: INF
+  gloss: INF
 
  -flex: .o
-  gramm: PRS.IND.1SG
+  gloss: PRS.IND.1SG
  -flex: .as
-  gramm: PRS.IND.2SG
+  gloss: PRS.IND.2SG
  -flex: .a
-  gramm: PRS.IND.3SG
+  gloss: PRS.IND.3SG
  -flex: .amos
-  gramm: PRS.IND.1PL
+  gloss: PRS.IND.1PL
  -flex: .ades
-  gramm: PRS.IND.2PL
+  gloss: PRS.IND.2PL
  -flex: .an
-  gramm: PRS.IND.3PL
+  gloss: PRS.IND.3PL
 
  -flex: .aua|.aba
-  gramm: IMPERF.IND.1SG
+  gloss: IMPERF.IND.1SG
  -flex: .auas|.abas
-  gramm: IMPERF.IND.2SG
+  gloss: IMPERF.IND.2SG
  -flex: .aua|.aba
-  gramm: IMPERF.IND.3SG
+  gloss: IMPERF.IND.3SG
  -flex: .auamos|.abamos
-  gramm: IMPERF.IND.1PL
+  gloss: IMPERF.IND.1PL
  -flex: .auades|.abades
-  gramm: IMPERF.IND.2PL
+  gloss: IMPERF.IND.2PL
  -flex: .auan|.aban
-  gramm: IMPERF.IND.3PL
+  gloss: IMPERF.IND.3PL
 
  -flex: .e
-  gramm: PRS.SUBJ.1SG
+  gloss: PRS.SUBJ.1SG
  -flex: .es
-  gramm: PRS.SUBJ.2SG
+  gloss: PRS.SUBJ.2SG
  -flex: .e
-  gramm: PRS.SUBJ.3SG
+  gloss: PRS.SUBJ.3SG
  -flex: .emos
-  gramm: PRS.SUBJ.1PL
+  gloss: PRS.SUBJ.1PL
  -flex: .edes
-  gramm: PRS.SUBJ.2PL
+  gloss: PRS.SUBJ.2PL
  -flex: .en
-  gramm: PRS.SUBJ.3PL
+  gloss: PRS.SUBJ.3PL
