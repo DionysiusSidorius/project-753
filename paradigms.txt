@@ -145,15 +145,15 @@
 
  -flex: .aria
   gloss: POT.IND.1SG
- -flex: .aras
+ -flex: .aries
   gloss: POT.IND.2SG
  -flex: .arie
   gloss: POT.IND.3SG
- -flex: .aremos
+ -flex: .ariemos
   gloss: POT.IND.1PL
- -flex: .aredes
+ -flex: .ariedes
   gloss: POT.IND.2PL
- -flex: .aran
+ -flex: .arien
   gloss: POT.IND.3PL
 
  -flex: .e
