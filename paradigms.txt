@@ -62,6 +62,11 @@
   gloss: INF
  -flex: .ando
   gloss: GER
+ -flex: .a
+  gloss: IMP.2SG
+ -flex: .ad
+  gloss: IMP.2PL
+
 
  -flex: .ado
   gloss: PART.M.SG
@@ -84,6 +89,19 @@
  -flex: .ades
   gloss: PRS.IND.2PL
  -flex: .an
+  gloss: PRS.IND.3PL
+
+ -flex: .e//.é
+  gloss: PRS.IND.1SG
+ -flex: .aste
+  gloss: PRS.IND.2SG
+ -flex: .o//.ó
+  gloss: PRS.IND.3SG
+ -flex: .amos
+  gloss: PRS.IND.1PL
+ -flex: .astes
+  gloss: PRS.IND.2PL
+ -flex: .aron
   gloss: PRS.IND.3PL
 
  -flex: .aua//.aba
