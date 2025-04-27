@@ -64,7 +64,7 @@
   gloss: GER
  -flex: .a
   gloss: IMP.2SG
- -flex: .ad
+ -flex: .ad//.at
   gloss: IMP.2PL
 
 
@@ -93,7 +93,7 @@
 
  -flex: .e//.é
   gloss: PRS.IND.1SG
- -flex: .aste
+ -flex: .aste//.este
   gloss: PRS.IND.2SG
  -flex: .o//.ó
   gloss: PRS.IND.3SG
@@ -116,6 +116,45 @@
   gloss: IMPERF.IND.2PL
  -flex: .auan//.aban
   gloss: IMPERF.IND.3PL
+
+ -flex: .ara
+  gloss: PQP.IND.1SG
+ -flex: .aras
+  gloss: PQP.IND.2SG
+ -flex: .ara
+  gloss: PQP.IND.3SG
+ -flex: .aramos
+  gloss: PQP.IND.1PL
+ -flex: .arades
+  gloss: PQP.IND.2PL
+ -flex: .aran
+  gloss: PQP.IND.3PL
+
+ -flex: .are
+  gloss: FUT.IND.1SG
+ -flex: .aras
+  gloss: FUT.IND.2SG
+ -flex: .ara
+  gloss: FUT.IND.3SG
+ -flex: .aremos
+  gloss: FUT.IND.1PL
+ -flex: .aredes
+  gloss: FUT.IND.2PL
+ -flex: .aran
+  gloss: FUT.IND.3PL
+
+ -flex: .aria
+  gloss: POT.IND.1SG
+ -flex: .aras
+  gloss: POT.IND.2SG
+ -flex: .arie
+  gloss: POT.IND.3SG
+ -flex: .aremos
+  gloss: POT.IND.1PL
+ -flex: .aredes
+  gloss: POT.IND.2PL
+ -flex: .aran
+  gloss: POT.IND.3PL
 
  -flex: .e
   gloss: PRS.SUBJ.1SG
