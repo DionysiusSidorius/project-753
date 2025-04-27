@@ -168,3 +168,16 @@
   gloss: PRS.SUBJ.2PL
  -flex: .en
   gloss: PRS.SUBJ.3PL
+
+ -flex: .asse//.ase
+  gloss: IMPERF.SUBJ.1SG
+ -flex: .asses//.ases
+  gloss: IMPERF.SUBJ.2SG
+ -flex: .asse//.ase
+  gloss: IMPERF.SUBJ.3SG
+ -flex: .assemos//.asemos
+  gloss: IMPERF.SUBJ.1PL
+ -flex: .assedes//.asedes
+  gloss: IMPERF.SUBJ.2PL
+ -flex: .assen//.asen
+  gloss: IMPERF.SUBJ.3PL
