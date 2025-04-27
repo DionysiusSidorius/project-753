@@ -181,3 +181,16 @@
   gloss: IMPERF.SUBJ.2PL
  -flex: .assen//.asen
   gloss: IMPERF.SUBJ.3PL
+
+ -flex: .are
+  gloss: FUT.SUBJ.1SG
+ -flex: .ares
+  gloss: FUT.SUBJ.2SG
+ -flex: .are
+  gloss: FUT.SUBJ.3SG
+ -flex: .aremos
+  gloss: FUT.SUBJ.1PL
+ -flex: .aredes
+  gloss: FUT.SUBJ.2PL
+ -flex: .aren
+  gloss: FUT.SUBJ.3PL
