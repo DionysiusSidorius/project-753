@@ -91,18 +91,18 @@
  -flex: .an
   gloss: PRS.IND.3PL
 
- -flex: .e//.é
-  gloss: PRS.IND.1SG
- -flex: .aste//.este
-  gloss: PRS.IND.2SG
- -flex: .o//.ó
-  gloss: PRS.IND.3SG
+ -flex: .e
+  gloss: PRET.IND.1SG
+ -flex: .aste//.este//.ast//.est
+  gloss: PRET.IND.2SG
+ -flex: .o
+  gloss: PRET.IND.3SG
  -flex: .amos
-  gloss: PRS.IND.1PL
+  gloss: PRET.IND.1PL
  -flex: .astes
-  gloss: PRS.IND.2PL
+  gloss: PRET.IND.2PL
  -flex: .aron
-  gloss: PRS.IND.3PL
+  gloss: PRET.IND.3PL
 
  -flex: .aua//.aba
   gloss: IMPERF.IND.1SG
@@ -115,6 +115,149 @@
  -flex: .auades//.abades
   gloss: IMPERF.IND.2PL
  -flex: .auan//.aban
+  gloss: IMPERF.IND.3PL
+
+ -flex: .ara
+  gloss: PQP.IND.1SG
+ -flex: .aras
+  gloss: PQP.IND.2SG
+ -flex: .ara
+  gloss: PQP.IND.3SG
+ -flex: .aramos
+  gloss: PQP.IND.1PL
+ -flex: .arades
+  gloss: PQP.IND.2PL
+ -flex: .aran
+  gloss: PQP.IND.3PL
+
+ -flex: .are
+  gloss: FUT.IND.1SG
+ -flex: .aras
+  gloss: FUT.IND.2SG
+ -flex: .ara
+  gloss: FUT.IND.3SG
+ -flex: .aremos
+  gloss: FUT.IND.1PL
+ -flex: .aredes
+  gloss: FUT.IND.2PL
+ -flex: .aran
+  gloss: FUT.IND.3PL
+
+ -flex: .aria
+  gloss: POT.IND.1SG
+ -flex: .aries
+  gloss: POT.IND.2SG
+ -flex: .arie
+  gloss: POT.IND.3SG
+ -flex: .ariemos
+  gloss: POT.IND.1PL
+ -flex: .ariedes
+  gloss: POT.IND.2PL
+ -flex: .arien
+  gloss: POT.IND.3PL
+
+ -flex: .e
+  gloss: PRS.SUBJ.1SG
+ -flex: .es
+  gloss: PRS.SUBJ.2SG
+ -flex: .e
+  gloss: PRS.SUBJ.3SG
+ -flex: .emos
+  gloss: PRS.SUBJ.1PL
+ -flex: .edes
+  gloss: PRS.SUBJ.2PL
+ -flex: .en
+  gloss: PRS.SUBJ.3PL
+
+ -flex: .asse//.ase
+  gloss: IMPERF.SUBJ.1SG
+ -flex: .asses//.ases
+  gloss: IMPERF.SUBJ.2SG
+ -flex: .asse//.ase
+  gloss: IMPERF.SUBJ.3SG
+ -flex: .assemos//.asemos
+  gloss: IMPERF.SUBJ.1PL
+ -flex: .assedes//.asedes
+  gloss: IMPERF.SUBJ.2PL
+ -flex: .assen//.asen
+  gloss: IMPERF.SUBJ.3PL
+
+ -flex: .are
+  gloss: FUT.SUBJ.1SG
+ -flex: .ares
+  gloss: FUT.SUBJ.2SG
+ -flex: .are
+  gloss: FUT.SUBJ.3SG
+ -flex: .aremos
+  gloss: FUT.SUBJ.1PL
+ -flex: .aredes
+  gloss: FUT.SUBJ.2PL
+ -flex: .aren
+  gloss: FUT.SUBJ.3PL
+
+
+
+
+
+-paradigm: V_e
+
+ -flex: .er
+  gloss: INF
+ -flex: .iendo
+  gloss: GER
+ -flex: .e//.
+  gloss: IMP.2SG
+ -flex: .ed//.et
+  gloss: IMP.2PL
+
+
+ -flex: .ido//.udo
+  gloss: PART.M.SG
+ -flex: .ida//.uda
+  gloss: PART.F.SG
+ -flex: .idos//.udos
+  gloss: PART.M.PL
+ -flex: .idas//.udas
+  gloss: PART.F.PL
+
+
+ -flex: .o
+  gloss: PRS.IND.1SG
+ -flex: .es
+  gloss: PRS.IND.2SG
+ -flex: .e
+  gloss: PRS.IND.3SG
+ -flex: .emos
+  gloss: PRS.IND.1PL
+ -flex: .edes
+  gloss: PRS.IND.2PL
+ -flex: .en
+  gloss: PRS.IND.3PL
+
+ -flex: .i//.j
+  gloss: PRET.IND.1SG
+ -flex: .iste//.ist
+  gloss: PRET.IND.2SG
+ -flex: .io
+  gloss: PRET.IND.3SG
+ -flex: .imos
+  gloss: PRET.IND.1PL
+ -flex: .istes
+  gloss: PRET.IND.2PL
+ -flex: .ieron
+  gloss: PRET.IND.3PL
+
+ -flex: .ia
+  gloss: IMPERF.IND.1SG
+ -flex: .ies
+  gloss: IMPERF.IND.2SG
+ -flex: .ia//.ie
+  gloss: IMPERF.IND.3SG
+ -flex: .iemos
+  gloss: IMPERF.IND.1PL
+ -flex: .iedes
+  gloss: IMPERF.IND.2PL
+ -flex: .ien
   gloss: IMPERF.IND.3PL
 
  -flex: .ara
