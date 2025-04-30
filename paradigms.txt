@@ -203,21 +203,21 @@
 
  -flex: .er
   gloss: INF
- -flex: .iendo
+ -flex: .iendo//.yendo
   gloss: GER
- -flex: .e//.
+ -flex: .e//.//.y
   gloss: IMP.2SG
  -flex: .ed//.et
   gloss: IMP.2PL
 
 
- -flex: .ido//.udo
+ -flex: .ido//.udo//.ydo
   gloss: PART.M.SG
- -flex: .ida//.uda
+ -flex: .ida//.uda//.yda
   gloss: PART.F.SG
- -flex: .idos//.udos
+ -flex: .idos//.udos//.ydos
   gloss: PART.M.PL
- -flex: .idas//.udas
+ -flex: .idas//.udas//.ydas
   gloss: PART.F.PL
 
 
@@ -286,43 +286,43 @@
  -flex: .eran//.ran
   gloss: FUT.IND.3PL
 
- -flex: .ria//.ria
+ -flex: .eria//.ria
   gloss: POT.IND.1SG
- -flex: .ries//.ries
+ -flex: .eries//.ries
   gloss: POT.IND.2SG
- -flex: .rie//.rie
+ -flex: .erie//.rie
   gloss: POT.IND.3SG
- -flex: .riemos//.riemos
+ -flex: .eriemos//.riemos
   gloss: POT.IND.1PL
- -flex: .riedes//.riedes
+ -flex: .eriedes//.riedes
   gloss: POT.IND.2PL
- -flex: .rien//.rien
+ -flex: .erien//.rien
   gloss: POT.IND.3PL
 
- -flex: .e
+ -flex: .a
   gloss: PRS.SUBJ.1SG
- -flex: .es
+ -flex: .as
   gloss: PRS.SUBJ.2SG
- -flex: .e
+ -flex: .a
   gloss: PRS.SUBJ.3SG
- -flex: .emos
+ -flex: .amos
   gloss: PRS.SUBJ.1PL
- -flex: .edes
+ -flex: .ades
   gloss: PRS.SUBJ.2PL
- -flex: .en
+ -flex: .an
   gloss: PRS.SUBJ.3PL
 
- -flex: .asse//.ase
+ -flex: .iesse//.iese//.yesse//.yese
   gloss: IMPERF.SUBJ.1SG
- -flex: .asses//.ases
+ -flex: .iesses//.ieses//.yesses//.yeses
   gloss: IMPERF.SUBJ.2SG
- -flex: .asse//.ase
+ -flex: .iesse//.iese//.yesse//.yese
   gloss: IMPERF.SUBJ.3SG
- -flex: .assemos//.asemos
+ -flex: .iessemos//.iesemos//.yessemos//.yesemos
   gloss: IMPERF.SUBJ.1PL
- -flex: .assedes//.asedes
+ -flex: .iessedes//.iesedes//.yessedes//.yesedes
   gloss: IMPERF.SUBJ.2PL
- -flex: .assen//.asen
+ -flex: .iessen//.iesen//.yessen//.yesen
   gloss: IMPERF.SUBJ.3PL
 
  -flex: .are
