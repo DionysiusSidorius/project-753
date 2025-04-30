@@ -273,30 +273,30 @@
  -flex: .ieran//.yeran
   gloss: PQP.IND.3PL
 
- -flex: .are
+ -flex: .ere//.re
   gloss: FUT.IND.1SG
- -flex: .aras
+ -flex: .eras//.ras
   gloss: FUT.IND.2SG
- -flex: .ara
+ -flex: .era//.ra
   gloss: FUT.IND.3SG
- -flex: .aremos
+ -flex: .eremos//.remos
   gloss: FUT.IND.1PL
- -flex: .aredes
+ -flex: .eredes//.redes
   gloss: FUT.IND.2PL
- -flex: .aran
+ -flex: .eran//.ran
   gloss: FUT.IND.3PL
 
- -flex: .aria
+ -flex: .ria//.ria
   gloss: POT.IND.1SG
- -flex: .aries
+ -flex: .ries//.ries
   gloss: POT.IND.2SG
- -flex: .arie
+ -flex: .rie//.rie
   gloss: POT.IND.3SG
- -flex: .ariemos
+ -flex: .riemos//.riemos
   gloss: POT.IND.1PL
- -flex: .ariedes
+ -flex: .riedes//.riedes
   gloss: POT.IND.2PL
- -flex: .arien
+ -flex: .rien//.rien
   gloss: POT.IND.3PL
 
  -flex: .e
