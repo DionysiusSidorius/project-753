@@ -325,15 +325,15 @@
  -flex: .iessen//.iesen//.yessen//.yesen
   gloss: IMPERF.SUBJ.3PL
 
- -flex: .are
+ -flex: .iere//.yere
   gloss: FUT.SUBJ.1SG
- -flex: .ares
+ -flex: .ieres//.yeres
   gloss: FUT.SUBJ.2SG
- -flex: .are
+ -flex: .iere//.yere
   gloss: FUT.SUBJ.3SG
- -flex: .aremos
+ -flex: .ieremos//.yeremos
   gloss: FUT.SUBJ.1PL
- -flex: .aredes
+ -flex: .ieredes//.yeredes
   gloss: FUT.SUBJ.2PL
- -flex: .aren
+ -flex: .ieren//.yeren
   gloss: FUT.SUBJ.3PL
