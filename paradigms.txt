@@ -337,3 +337,143 @@
   gloss: FUT.SUBJ.2PL
  -flex: .ieren//.yeren
   gloss: FUT.SUBJ.3PL
+
+
+-paradigm: V_i
+
+ -flex: .ir
+  gloss: INF
+ -flex: .iendo//.yendo
+  gloss: GER
+ -flex: .e//.//.y
+  gloss: IMP.2SG
+ -flex: .id//.it
+  gloss: IMP.2PL
+
+
+ -flex: .ido//.udo//.ydo
+  gloss: PART.M.SG
+ -flex: .ida//.uda//.yda
+  gloss: PART.F.SG
+ -flex: .idos//.udos//.ydos
+  gloss: PART.M.PL
+ -flex: .idas//.udas//.ydas
+  gloss: PART.F.PL
+
+
+ -flex: .o
+  gloss: PRS.IND.1SG
+ -flex: .es
+  gloss: PRS.IND.2SG
+ -flex: .e
+  gloss: PRS.IND.3SG
+ -flex: .imos
+  gloss: PRS.IND.1PL
+ -flex: .ides
+  gloss: PRS.IND.2PL
+ -flex: .en
+  gloss: PRS.IND.3PL
+
+ -flex: .i//.j
+  gloss: PRET.IND.1SG
+ -flex: .iste//.ist
+  gloss: PRET.IND.2SG
+ -flex: .io
+  gloss: PRET.IND.3SG
+ -flex: .imos
+  gloss: PRET.IND.1PL
+ -flex: .istes
+  gloss: PRET.IND.2PL
+ -flex: .ieron
+  gloss: PRET.IND.3PL
+
+ -flex: .ia//.ya//
+  gloss: IMPERF.IND.1SG
+ -flex: .ies//.yes
+  gloss: IMPERF.IND.2SG
+ -flex: .ia//.ie//.ye//.ya
+  gloss: IMPERF.IND.3SG
+ -flex: .iemos//.yemos
+  gloss: IMPERF.IND.1PL
+ -flex: .iedes//.yedes
+  gloss: IMPERF.IND.2PL
+ -flex: .ien//.yen
+  gloss: IMPERF.IND.3PL
+
+ -flex: .iera//.yera
+  gloss: PQP.IND.1SG
+ -flex: .ieras//.yeras
+  gloss: PQP.IND.2SG
+ -flex: .iera//.yera
+  gloss: PQP.IND.3SG
+ -flex: .ieramos//.yeramos
+  gloss: PQP.IND.1PL
+ -flex: .ierades//.yerades
+  gloss: PQP.IND.2PL
+ -flex: .ieran//.yeran
+  gloss: PQP.IND.3PL
+
+ -flex: .ire//.re
+  gloss: FUT.IND.1SG
+ -flex: .iras//.ras
+  gloss: FUT.IND.2SG
+ -flex: .ira//.ra
+  gloss: FUT.IND.3SG
+ -flex: .iremos//.remos
+  gloss: FUT.IND.1PL
+ -flex: .iredes//.redes
+  gloss: FUT.IND.2PL
+ -flex: .iran//.ran
+  gloss: FUT.IND.3PL
+
+ -flex: .iria//.ria
+  gloss: POT.IND.1SG
+ -flex: .iries//.ries
+  gloss: POT.IND.2SG
+ -flex: .irie//.rie
+  gloss: POT.IND.3SG
+ -flex: .iriemos//.riemos
+  gloss: POT.IND.1PL
+ -flex: .iriedes//.riedes
+  gloss: POT.IND.2PL
+ -flex: .irien//.rien
+  gloss: POT.IND.3PL
+
+ -flex: .a
+  gloss: PRS.SUBJ.1SG
+ -flex: .as
+  gloss: PRS.SUBJ.2SG
+ -flex: .a
+  gloss: PRS.SUBJ.3SG
+ -flex: .amos
+  gloss: PRS.SUBJ.1PL
+ -flex: .ades
+  gloss: PRS.SUBJ.2PL
+ -flex: .an
+  gloss: PRS.SUBJ.3PL
+
+ -flex: .iesse//.iese//.yesse//.yese
+  gloss: IMPERF.SUBJ.1SG
+ -flex: .iesses//.ieses//.yesses//.yeses
+  gloss: IMPERF.SUBJ.2SG
+ -flex: .iesse//.iese//.yesse//.yese
+  gloss: IMPERF.SUBJ.3SG
+ -flex: .iessemos//.iesemos//.yessemos//.yesemos
+  gloss: IMPERF.SUBJ.1PL
+ -flex: .iessedes//.iesedes//.yessedes//.yesedes
+  gloss: IMPERF.SUBJ.2PL
+ -flex: .iessen//.iesen//.yessen//.yesen
+  gloss: IMPERF.SUBJ.3PL
+
+ -flex: .iere//.yere
+  gloss: FUT.SUBJ.1SG
+ -flex: .ieres//.yeres
+  gloss: FUT.SUBJ.2SG
+ -flex: .iere//.yere
+  gloss: FUT.SUBJ.3SG
+ -flex: .ieremos//.yeremos
+  gloss: FUT.SUBJ.1PL
+ -flex: .ieredes//.yeredes
+  gloss: FUT.SUBJ.2PL
+ -flex: .ieren//.yeren
+  gloss: FUT.SUBJ.3PL
