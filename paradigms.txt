@@ -247,30 +247,30 @@
  -flex: .ieron
   gloss: PRET.IND.3PL
 
- -flex: .ia
+ -flex: .ia//.ya//
   gloss: IMPERF.IND.1SG
- -flex: .ies
+ -flex: .ies//.yes
   gloss: IMPERF.IND.2SG
- -flex: .ia//.ie
+ -flex: .ia//.ie//.ye//.ya
   gloss: IMPERF.IND.3SG
- -flex: .iemos
+ -flex: .iemos//.yemos
   gloss: IMPERF.IND.1PL
- -flex: .iedes
+ -flex: .iedes//.yedes
   gloss: IMPERF.IND.2PL
- -flex: .ien
+ -flex: .ien//.yen
   gloss: IMPERF.IND.3PL
 
- -flex: .ara
+ -flex: .iera//.yera
   gloss: PQP.IND.1SG
- -flex: .aras
+ -flex: .ieras//.yeras
   gloss: PQP.IND.2SG
- -flex: .ara
+ -flex: .iera//.yera
   gloss: PQP.IND.3SG
- -flex: .aramos
+ -flex: .ieramos//.yeramos
   gloss: PQP.IND.1PL
- -flex: .arades
+ -flex: .ierades//.yerades
   gloss: PQP.IND.2PL
- -flex: .aran
+ -flex: .ieran//.yeran
   gloss: PQP.IND.3PL
 
  -flex: .are
