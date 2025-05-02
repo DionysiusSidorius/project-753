@@ -211,13 +211,13 @@
   gloss: IMP.2PL
 
 
- -flex: .ido//.udo//.ydo
+ -flex: .ido//.udo//.ydo//.to//.o
   gloss: PART.M.SG
- -flex: .ida//.uda//.yda
+ -flex: .ida//.uda//.yda//.ta//.a
   gloss: PART.F.SG
- -flex: .idos//.udos//.ydos
+ -flex: .idos//.udos//.ydos//.tos//.os
   gloss: PART.M.PL
- -flex: .idas//.udas//.ydas
+ -flex: .idas//.udas//.ydas//.tas//.as
   gloss: PART.F.PL
 
 
@@ -351,13 +351,13 @@
   gloss: IMP.2PL
 
 
- -flex: .ido//.udo//.ydo
+ -flex: .ido//.udo//.ydo//.to//.o
   gloss: PART.M.SG
- -flex: .ida//.uda//.yda
+ -flex: .ida//.uda//.yda//.ta//.a
   gloss: PART.F.SG
- -flex: .idos//.udos//.ydos
+ -flex: .idos//.udos//.ydos//.tos//.os
   gloss: PART.M.PL
- -flex: .idas//.udas//.ydas
+ -flex: .idas//.udas//.ydas//.tas//.as
   gloss: PART.F.PL
 
 
