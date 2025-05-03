@@ -487,9 +487,9 @@
   gloss: INF
  -flex: .seendo//.seyendo//.seyndo//.sseyendo//.syendo
   gloss: GER
- -flex: .a
+ -flex: .sey
   gloss: IMP.2SG
- -flex: .ad//.at
+ -flex: .seed//.seet//.set
   gloss: IMP.2PL
 
 
@@ -581,41 +581,41 @@
  -flex: .serian
   gloss: POT.IND.3PL
 
- -flex: .e
+ -flex: .sea
   gloss: PRS.SUBJ.1SG
- -flex: .es
+ -flex: .seas
   gloss: PRS.SUBJ.2SG
- -flex: .e
+ -flex: .sea//.seya//.ssea
   gloss: PRS.SUBJ.3SG
- -flex: .emos
+ -flex: .seamos
   gloss: PRS.SUBJ.1PL
- -flex: .edes
+ -flex: .seades
   gloss: PRS.SUBJ.2PL
- -flex: .en
+ -flex: .sean//.seyan
   gloss: PRS.SUBJ.3PL
 
- -flex: .asse//.ase
+ -flex: .fuesse//.fuese
   gloss: IMPERF.SUBJ.1SG
- -flex: .asses//.ases
+ -flex: .fuesses//.fueses
   gloss: IMPERF.SUBJ.2SG
- -flex: .asse//.ase
+ -flex: .fuesse//.fuese//.fosse//.fues//.fuess
   gloss: IMPERF.SUBJ.3SG
- -flex: .assemos//.asemos
+ -flex: .fuessemos//.fuesemos
   gloss: IMPERF.SUBJ.1PL
- -flex: .assedes//.asedes
+ -flex: .fuessedes//.fuesedes
   gloss: IMPERF.SUBJ.2PL
- -flex: .assen//.asen
+ -flex: .fuessen//.fuesen
   gloss: IMPERF.SUBJ.3PL
 
- -flex: .are
+ -flex: .fuer
   gloss: FUT.SUBJ.1SG
- -flex: .ares
+ -flex: .fores//.fueres//.souieres
   gloss: FUT.SUBJ.2SG
- -flex: .are
+ -flex: .for//.fuer//.fuere//.fure//.souiere
   gloss: FUT.SUBJ.3SG
- -flex: .aremos
+ -flex: .fueremos
   gloss: FUT.SUBJ.1PL
- -flex: .aredes
+ -flex: .fueredes
   gloss: FUT.SUBJ.2PL
- -flex: .aren
+ -flex: .foren//.fueren//.furen//.souieren
   gloss: FUT.SUBJ.3PL
