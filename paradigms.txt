@@ -619,3 +619,17 @@
   gloss: FUT.SUBJ.2PL
  -flex: .foren//.fueren//.furen//.souieren
   gloss: FUT.SUBJ.3PL
+
+
+
+
+
+-paradigm: PRON
+ -flex: .e//.//.o
+  gramm:M.Sg
+ -flex: .a
+  gramm:F.Sg
+ -flex: .os//.es
+  gramm:M.Pl
+ -flex: .as
+  gramm:F.Pl
