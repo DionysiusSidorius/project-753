@@ -23,6 +23,7 @@
   gramm: pl
   gloss: PL
 
+
 -paradigm: ADJ
  -flex: .o|.
   gramm:M.Sg
@@ -740,3 +741,23 @@
   gloss: POSS.2SG.F.SG
  -flex: .tuyas//.tuas
   gloss: POSS.2SG.F.PL
+
+-paradigm: ART_el
+ -flex: .el//.ell//.l
+  gloss: DEF.M.SG
+ -flex: .la
+  gloss: DEF.F.SG
+ -flex: .los//.llos
+  gloss: DEF.M.PL
+ -flex: .las//.llas
+  gloss: DEF.F.PL
+
+-paradigm: ART_un
+ -flex: .un//.um//.vn
+  gloss: INDEF.M.SG
+ -flex: .una//.vna
+  gloss: INDEF.F.SG
+ -flex: .unos//.vnos
+  gloss: INDEF.M.PL
+ -flex: .unas//.vnas
+  gloss: INDEF.F.PL
