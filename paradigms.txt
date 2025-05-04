@@ -661,4 +661,10 @@
  -flex: .os
   gloss: ACC,DAT
  -flex: .os
+
+-paradigm: PRON_se
+ -flex: .se//.sse
+  gloss: ACC,DAT
+ -flex: .se//.ge//.ie.//je
+ -flex: .sí//.si//.sj//.sse//.ssi//.ssy//.sy
   gloss: ABL
