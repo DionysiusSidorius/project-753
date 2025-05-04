@@ -626,10 +626,39 @@
 
 -paradigm: PRON
  -flex: .e//.//.o
-  gramm:M.Sg
+  gloss:M.SG
  -flex: .a
-  gramm:F.Sg
+  gloss:F.SG
  -flex: .os//.es
-  gramm:M.Pl
+  gloss:M.PL
  -flex: .as
-  gramm:F.Pl
+  gloss:F.PL
+
+-paradigm: PRON_yo
+ -flex: .yo//.io
+  gloss: NOM
+ -flex: .me
+  gloss: ACC,DAT
+ -flex: .mí//.mi//.mj
+  gloss: ABL
+-paradigm: PRON_tu
+ -flex: .tú//.tu//.tv
+  gloss: NOM
+ -flex: .d//.te
+  gloss: ACC,DAT
+ -flex: .ti//.ty//.tj
+  gloss: ABL
+-paradigm: PRON_nos
+ -flex: .nos
+  gloss: NOM
+ -flex: .nos
+  gloss: ACC,DAT
+ -flex: .nos
+  gloss: ABL
+-paradigm: PRON_os
+ -flex: .vos
+  gloss: NOM
+ -flex: .os
+  gloss: ACC,DAT
+ -flex: .os
+  gloss: ABL
