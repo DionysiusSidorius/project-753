@@ -661,10 +661,36 @@
  -flex: .os
   gloss: ACC,DAT
  -flex: .os
-
+  gloss: ABL
 -paradigm: PRON_se
  -flex: .se//.sse
   gloss: ACC,DAT
  -flex: .se//.ge//.ie.//je
  -flex: .sí//.si//.sj//.sse//.ssi//.ssy//.sy
   gloss: ABL
+
+-paradigm: PRON_el
+ -flex: él//.el//.ell//.elle//.l
+  gloss: NOM.SG.M
+ -flex: .llo//.lo//.le//.li//.lle//.ly
+  gloss: ACC.SG.M
+ -flex: .le//.li//.lle//.ly
+  gloss: DAT.SG.M
+ -flex: .ella
+  gloss: NOM.SG.F
+ -flex: .la//.lla
+  gloss: ACC.SG.F
+ -flex: .le//.li//.lle//.ly
+  gloss: DAT.SG.F
+ -flex: .ellos
+  gloss: NOM.PL.M
+ -flex: .los//.llos
+  gloss: ACC.PL.M
+ -flex: .les//.lis//.lles
+  gloss: DAT.PL.M
+ -flex: .ellas
+  gloss: NOM.PL.F
+ -flex: .las//.llas
+  gloss: ACC.PL.F
+ -flex: .les//.lis//.lles
+  gloss: DAT.PL.F
