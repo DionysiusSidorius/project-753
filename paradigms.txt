@@ -25,7 +25,7 @@
 
 
 -paradigm: ADJ
- -flex: .o|.
+ -flex: .o//.
   gramm:M.Sg
  -flex: .a
   gramm:F.Sg
@@ -41,7 +41,7 @@
   gramm: pl
   gloss: PL
 -paradigm: ADJ_e
- -flex: .|.e
+ -flex: .//.e
   gramm: sg
   gloss: SG
  -flex: .es
