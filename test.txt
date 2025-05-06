@@ -37,70 +37,64 @@ matallinas:adj,pl,fem
 
 -EN -o
 
-:noun,sg
-:noun,sg
-:noun,sg
-:noun,sg
-:noun,sg
+sepulchro:noun,sg
+servicio:noun,sg
+satiro:noun,sg
+robo:noun,sg
+rayo:noun,sg
 
-:noun,pl
-:noun,pl
-:noun,pl
-:noun,pl
-:noun,pl
+rastroios:noun,pl
+suennos:noun,pl
+talentos:noun,pl
+signos:noun,pl
+pesos:noun,pl
 
 -EN -a
 
-:noun,sg
-:noun,sg
-:noun,sg
-:noun,sg
-:noun,sg
+piedra:noun,sg
+madrugada:noun,sg
+desmesura:noun,sg
+yema:noun,sg
+yuueria:noun,sg
 
-:noun,pl
-:noun,pl
-:noun,pl
-:noun,pl
-:noun,pl
+zabras:noun,pl
+çamponnas:noun,pl
+vendas:noun,pl
+uçadas:noun,pl
+tornadas:noun,pl
 
--EN -e
+-EN -e u otra vocal
 
-:noun,sg
-:noun,sg
-:noun,sg
-:noun,sg
-:noun,sg
+trebde:noun,sg
+reciedumbre:noun,sg
+pudiente:noun,sg
+nube:noun,sg
+llaue:noun,sg
 
-:noun,pl
-:noun,pl
-:noun,pl
-:noun,pl
-:noun,pl
+juguetes:noun,pl
+ingres:noun,pl
+fuyentes:noun,pl
+guadamecis:noun,pl
+etiopes:noun,pl
 
 -EN -C
 
-:noun,sg
-:noun,sg
-:noun,sg
-:noun,sg
-:noun,sg
+rey:noun,sg
+estupor:noun,sg
+eslauon:noun,sg
+don:noun,sg
+dar:noun,sg
 
-:noun,pl
-:noun,pl
-:noun,pl
-:noun,pl
-:noun,pl
+cogedores:noun,pl
+cesares:noun,pl
+reyes:noun,pl
+coçes:noun,pl
+narizes:noun,pl
 
 -EN -os
 
-:noun,sg
-:noun,sg
-:noun,sg
-:noun,sg
-:noun,sg
-
-:noun,pl
-:noun,pl
-:noun,pl
-:noun,pl
-:noun,pl
+utilios:noun,sg
+tos:noun,sg
+quebrantahuesos:noun,sg
+psilos:noun,sg
+astillejos:noun,sg
