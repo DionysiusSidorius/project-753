@@ -1,1 +1,10 @@
-
+rient:adj,sg
+plaziente:adj,sg
+mayor:adj,sg
+lene:adj,sg
+leonés:adj,sg
+elmosnadores:adj,pl
+llagantes:adj,pl
+mobiles:adj,pl
+potenciales:adj,pl
+uerdes:adj,pl
