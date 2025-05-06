@@ -26,13 +26,17 @@
 
 -paradigm: ADJ
  -flex: .o//.
-  gramm:M.Sg
+  gramm: masc,sg
+  gloss: M.Sg
  -flex: .a
-  gramm:F.Sg
+  gramm: fem,sg
+  gloss: F.Sg
  -flex: .os
-  gramm:M.Pl
+  gramm: masc,pl
+  gloss: M.Pl
  -flex: .as
-  gramm:F.Pl
+  gramm: fem,pl
+  gramm: F.Pl
 -paradigm: ADJ_C
  -flex: .
   gramm: sg
@@ -47,16 +51,21 @@
  -flex: .es
   gramm: pl
   gloss: PL
+
 -paradigm: ADJ_Ca
 
  -flex: .
-  gramm:M.Sg
+  gramm: masc,sg
+  gloss: M.Sg
  -flex: .a
-  gramm:F.Sg
+  gramm: fem,sg
+  gloss: F.Sg
  -flex: .es
-  gramm:M.Pl
+  gramm: masc,pl
+  gloss: M.Pl
  -flex: .as
-  gramm:F.Pl
+  gramm: fem,pl
+  gramm: F.Pl
 
 
 
