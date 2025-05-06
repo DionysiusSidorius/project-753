@@ -101,19 +101,19 @@ astillejos:noun,sg
 
 -ADV
 
-:adv
-:adv
-:adv
-:adv
-:adv
+aun:adv
+cras:adv
+festina:adv
+ffuerte:adv
+ya:adv
 
 -PREP
 
-:prep
-:prep
-:prep
-:prep
-:prep
+en:prep
+de:prep
+ad:prep
+por:prep
+tras:prep
 
 -INTERJ
 
