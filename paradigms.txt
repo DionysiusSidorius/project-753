@@ -72,140 +72,202 @@
 -paradigm: V_a
 
  -flex: .ar
+  gramm: inf
   gloss: INF
  -flex: .ando
+  gramm: ger
   gloss: GER
  -flex: .a
+  gramm: imp,2sg
   gloss: IMP.2SG
  -flex: .ad//.at
+  gramm: imp,2pl
   gloss: IMP.2PL
 
 
  -flex: .ado
+  gramm: part,masc,sg
   gloss: PART.M.SG
  -flex: .ada
+  gramm: part,fem,sg
   gloss: PART.F.SG
  -flex: .ados
+  gramm: part,masc,pl
   gloss: PART.M.PL
  -flex: .adas
+  gramm: part,fem,pl
   gloss: PART.F.PL
 
 
  -flex: .o
+  gramm: prs,ind,1sg
   gloss: PRS.IND.1SG
  -flex: .as
+  gramm: prs,ind,2sg
   gloss: PRS.IND.2SG
  -flex: .a
+  gramm: prs,ind,3sg
   gloss: PRS.IND.3SG
  -flex: .amos
+  gramm: prs,ind,1pl
   gloss: PRS.IND.1PL
  -flex: .ades
+  gramm: prs,ind,2pl
   gloss: PRS.IND.2PL
  -flex: .an
+  gramm: prs,ind,3pl
   gloss: PRS.IND.3PL
 
  -flex: .e
+  gramm: 
   gloss: PRET.IND.1SG
  -flex: .aste//.este//.ast//.est
+  gramm: 
   gloss: PRET.IND.2SG
  -flex: .o
+  gramm: 
   gloss: PRET.IND.3SG
  -flex: .amos
+  gramm: 
   gloss: PRET.IND.1PL
  -flex: .astes
+  gramm: 
   gloss: PRET.IND.2PL
  -flex: .aron
+  gramm: 
   gloss: PRET.IND.3PL
 
  -flex: .aua//.aba
+  gramm: 
   gloss: IMPERF.IND.1SG
  -flex: .auas//.abas
+  gramm: 
   gloss: IMPERF.IND.2SG
  -flex: .aua//.aba
+  gramm: 
   gloss: IMPERF.IND.3SG
  -flex: .auamos//.abamos
+  gramm: 
   gloss: IMPERF.IND.1PL
  -flex: .auades//.abades
+  gramm: 
   gloss: IMPERF.IND.2PL
  -flex: .auan//.aban
+  gramm: 
   gloss: IMPERF.IND.3PL
 
  -flex: .ara
+  gramm: 
   gloss: PQP.IND.1SG
  -flex: .aras
+  gramm: 
   gloss: PQP.IND.2SG
  -flex: .ara
+  gramm: 
   gloss: PQP.IND.3SG
  -flex: .aramos
+  gramm: 
   gloss: PQP.IND.1PL
  -flex: .arades
+  gramm: 
   gloss: PQP.IND.2PL
  -flex: .aran
+  gramm: 
   gloss: PQP.IND.3PL
 
  -flex: .are
+  gramm: 
   gloss: FUT.IND.1SG
  -flex: .aras
+  gramm: 
   gloss: FUT.IND.2SG
  -flex: .ara
+  gramm: 
   gloss: FUT.IND.3SG
  -flex: .aremos
+  gramm: 
   gloss: FUT.IND.1PL
  -flex: .aredes
+  gramm: 
   gloss: FUT.IND.2PL
  -flex: .aran
+  gramm: 
   gloss: FUT.IND.3PL
 
  -flex: .aria
+  gramm: 
   gloss: POT.IND.1SG
  -flex: .aries
+  gramm: 
   gloss: POT.IND.2SG
  -flex: .arie
+  gramm: 
   gloss: POT.IND.3SG
  -flex: .ariemos
+  gramm: 
   gloss: POT.IND.1PL
  -flex: .ariedes
+  gramm: 
   gloss: POT.IND.2PL
  -flex: .arien
+  gramm: 
   gloss: POT.IND.3PL
 
  -flex: .e
+  gramm: 
   gloss: PRS.SUBJ.1SG
  -flex: .es
+  gramm: 
   gloss: PRS.SUBJ.2SG
  -flex: .e
+  gramm: 
   gloss: PRS.SUBJ.3SG
  -flex: .emos
+  gramm: 
   gloss: PRS.SUBJ.1PL
  -flex: .edes
+  gramm: 
   gloss: PRS.SUBJ.2PL
  -flex: .en
+  gramm: 
   gloss: PRS.SUBJ.3PL
 
  -flex: .asse//.ase
+  gramm: 
   gloss: IMPERF.SUBJ.1SG
  -flex: .asses//.ases
+  gramm: 
   gloss: IMPERF.SUBJ.2SG
  -flex: .asse//.ase
+  gramm: 
   gloss: IMPERF.SUBJ.3SG
  -flex: .assemos//.asemos
+  gramm: 
   gloss: IMPERF.SUBJ.1PL
  -flex: .assedes//.asedes
+  gramm: 
   gloss: IMPERF.SUBJ.2PL
  -flex: .assen//.asen
+  gramm: 
   gloss: IMPERF.SUBJ.3PL
 
  -flex: .are
+  gramm: 
   gloss: FUT.SUBJ.1SG
  -flex: .ares
+  gramm: 
   gloss: FUT.SUBJ.2SG
  -flex: .are
+  gramm: 
   gloss: FUT.SUBJ.3SG
  -flex: .aremos
+  gramm: 
   gloss: FUT.SUBJ.1PL
  -flex: .aredes
+  gramm: 
   gloss: FUT.SUBJ.2PL
  -flex: .aren
+  gramm: 
   gloss: FUT.SUBJ.3PL
 
 
@@ -215,280 +277,404 @@
 -paradigm: V_e
 
  -flex: .er
+  gramm: 
   gloss: INF
  -flex: .iendo//.yendo
+  gramm: 
   gloss: GER
  -flex: .e//.//.y
+  gramm: 
   gloss: IMP.2SG
  -flex: .ed//.et
+  gramm: 
   gloss: IMP.2PL
 
 
  -flex: .ido//.udo//.ydo//.to//.o
+  gramm: 
   gloss: PART.M.SG
  -flex: .ida//.uda//.yda//.ta//.a
+  gramm: 
   gloss: PART.F.SG
  -flex: .idos//.udos//.ydos//.tos//.os
+  gramm: 
   gloss: PART.M.PL
  -flex: .idas//.udas//.ydas//.tas//.as
+  gramm: 
   gloss: PART.F.PL
 
 
  -flex: .o
+  gramm: 
   gloss: PRS.IND.1SG
  -flex: .es
+  gramm: 
   gloss: PRS.IND.2SG
  -flex: .e
+  gramm: 
   gloss: PRS.IND.3SG
  -flex: .emos
+  gramm: 
   gloss: PRS.IND.1PL
  -flex: .edes
+  gramm: 
   gloss: PRS.IND.2PL
  -flex: .en
+  gramm: 
   gloss: PRS.IND.3PL
 
  -flex: .i//.j
+  gramm: 
   gloss: PRET.IND.1SG
  -flex: .iste//.ist
+  gramm: 
   gloss: PRET.IND.2SG
  -flex: .io
+  gramm: 
   gloss: PRET.IND.3SG
  -flex: .imos
+  gramm: 
   gloss: PRET.IND.1PL
  -flex: .istes
+  gramm: 
   gloss: PRET.IND.2PL
  -flex: .ieron
+  gramm: 
   gloss: PRET.IND.3PL
 
  -flex: .ia//.ya//
+  gramm: 
   gloss: IMPERF.IND.1SG
  -flex: .ies//.yes
+  gramm: 
   gloss: IMPERF.IND.2SG
  -flex: .ia//.ie//.ye//.ya
+  gramm: 
   gloss: IMPERF.IND.3SG
  -flex: .iemos//.yemos
+  gramm: 
   gloss: IMPERF.IND.1PL
  -flex: .iedes//.yedes
+  gramm: 
   gloss: IMPERF.IND.2PL
  -flex: .ien//.yen
+  gramm: 
   gloss: IMPERF.IND.3PL
 
  -flex: .iera//.yera
+  gramm: 
   gloss: PQP.IND.1SG
  -flex: .ieras//.yeras
+  gramm: 
   gloss: PQP.IND.2SG
  -flex: .iera//.yera
+  gramm: 
   gloss: PQP.IND.3SG
  -flex: .ieramos//.yeramos
+  gramm: 
   gloss: PQP.IND.1PL
  -flex: .ierades//.yerades
+  gramm: 
   gloss: PQP.IND.2PL
  -flex: .ieran//.yeran
+  gramm: 
   gloss: PQP.IND.3PL
 
  -flex: .ere//.re
+  gramm: 
   gloss: FUT.IND.1SG
  -flex: .eras//.ras
+  gramm: 
   gloss: FUT.IND.2SG
  -flex: .era//.ra
+  gramm: 
   gloss: FUT.IND.3SG
  -flex: .eremos//.remos
+  gramm: 
   gloss: FUT.IND.1PL
  -flex: .eredes//.redes
+  gramm: 
   gloss: FUT.IND.2PL
  -flex: .eran//.ran
+  gramm: 
   gloss: FUT.IND.3PL
 
  -flex: .eria//.ria
+  gramm: 
   gloss: POT.IND.1SG
  -flex: .eries//.ries
+  gramm: 
   gloss: POT.IND.2SG
  -flex: .erie//.rie
+  gramm: 
   gloss: POT.IND.3SG
  -flex: .eriemos//.riemos
+  gramm: 
   gloss: POT.IND.1PL
  -flex: .eriedes//.riedes
+  gramm: 
   gloss: POT.IND.2PL
  -flex: .erien//.rien
+  gramm: 
   gloss: POT.IND.3PL
 
  -flex: .a
+  gramm: 
   gloss: PRS.SUBJ.1SG
  -flex: .as
+  gramm: 
   gloss: PRS.SUBJ.2SG
  -flex: .a
+  gramm: 
   gloss: PRS.SUBJ.3SG
  -flex: .amos
+  gramm: 
   gloss: PRS.SUBJ.1PL
  -flex: .ades
+  gramm: 
   gloss: PRS.SUBJ.2PL
  -flex: .an
+  gramm: 
   gloss: PRS.SUBJ.3PL
 
  -flex: .iesse//.iese//.yesse//.yese
+  gramm: 
   gloss: IMPERF.SUBJ.1SG
  -flex: .iesses//.ieses//.yesses//.yeses
+  gramm: 
   gloss: IMPERF.SUBJ.2SG
  -flex: .iesse//.iese//.yesse//.yese
+  gramm: 
   gloss: IMPERF.SUBJ.3SG
  -flex: .iessemos//.iesemos//.yessemos//.yesemos
+  gramm: 
   gloss: IMPERF.SUBJ.1PL
  -flex: .iessedes//.iesedes//.yessedes//.yesedes
+  gramm: 
   gloss: IMPERF.SUBJ.2PL
  -flex: .iessen//.iesen//.yessen//.yesen
+  gramm: 
   gloss: IMPERF.SUBJ.3PL
 
  -flex: .iere//.yere
+  gramm: 
   gloss: FUT.SUBJ.1SG
  -flex: .ieres//.yeres
+  gramm: 
   gloss: FUT.SUBJ.2SG
  -flex: .iere//.yere
+  gramm: 
   gloss: FUT.SUBJ.3SG
  -flex: .ieremos//.yeremos
+  gramm: 
   gloss: FUT.SUBJ.1PL
  -flex: .ieredes//.yeredes
+  gramm: 
   gloss: FUT.SUBJ.2PL
  -flex: .ieren//.yeren
+  gramm: 
   gloss: FUT.SUBJ.3PL
 
 
 -paradigm: V_i
 
  -flex: .ir
+  gramm: 
   gloss: INF
  -flex: .iendo//.yendo
+  gramm: 
   gloss: GER
  -flex: .e//.//.y
+  gramm: 
   gloss: IMP.2SG
  -flex: .id//.it
+  gramm: 
   gloss: IMP.2PL
 
 
  -flex: .ido//.udo//.ydo//.to//.o
+  gramm: 
   gloss: PART.M.SG
  -flex: .ida//.uda//.yda//.ta//.a
+  gramm: 
   gloss: PART.F.SG
  -flex: .idos//.udos//.ydos//.tos//.os
+  gramm: 
   gloss: PART.M.PL
  -flex: .idas//.udas//.ydas//.tas//.as
+  gramm: 
   gloss: PART.F.PL
 
 
  -flex: .o
+  gramm: 
   gloss: PRS.IND.1SG
  -flex: .es
+  gramm: 
   gloss: PRS.IND.2SG
  -flex: .e
+  gramm: 
   gloss: PRS.IND.3SG
  -flex: .imos
+  gramm: 
   gloss: PRS.IND.1PL
  -flex: .ides
+  gramm: 
   gloss: PRS.IND.2PL
  -flex: .en
+  gramm: 
   gloss: PRS.IND.3PL
 
  -flex: .i//.j
+  gramm: 
   gloss: PRET.IND.1SG
  -flex: .iste//.ist
+  gramm: 
   gloss: PRET.IND.2SG
  -flex: .io
+  gramm: 
   gloss: PRET.IND.3SG
  -flex: .imos
+  gramm: 
   gloss: PRET.IND.1PL
  -flex: .istes
+  gramm: 
   gloss: PRET.IND.2PL
  -flex: .ieron
+  gramm: 
   gloss: PRET.IND.3PL
 
- -flex: .ia//.ya//
+ -flex: .ia//.ya
+  gramm: 
   gloss: IMPERF.IND.1SG
  -flex: .ies//.yes
+  gramm: 
   gloss: IMPERF.IND.2SG
  -flex: .ia//.ie//.ye//.ya
+  gramm: 
   gloss: IMPERF.IND.3SG
  -flex: .iemos//.yemos
+  gramm: 
   gloss: IMPERF.IND.1PL
  -flex: .iedes//.yedes
+  gramm: 
   gloss: IMPERF.IND.2PL
  -flex: .ien//.yen
+  gramm: 
   gloss: IMPERF.IND.3PL
 
  -flex: .iera//.yera
+  gramm: 
   gloss: PQP.IND.1SG
  -flex: .ieras//.yeras
+  gramm: 
   gloss: PQP.IND.2SG
  -flex: .iera//.yera
+  gramm: 
   gloss: PQP.IND.3SG
  -flex: .ieramos//.yeramos
+  gramm: 
   gloss: PQP.IND.1PL
  -flex: .ierades//.yerades
+  gramm: 
   gloss: PQP.IND.2PL
  -flex: .ieran//.yeran
+  gramm: 
   gloss: PQP.IND.3PL
 
  -flex: .ire//.re
+  gramm: 
   gloss: FUT.IND.1SG
  -flex: .iras//.ras
+  gramm: 
   gloss: FUT.IND.2SG
  -flex: .ira//.ra
+  gramm: 
   gloss: FUT.IND.3SG
  -flex: .iremos//.remos
+  gramm: 
   gloss: FUT.IND.1PL
  -flex: .iredes//.redes
+  gramm: 
   gloss: FUT.IND.2PL
  -flex: .iran//.ran
+  gramm: 
   gloss: FUT.IND.3PL
 
  -flex: .iria//.ria
+  gramm: 
   gloss: POT.IND.1SG
  -flex: .iries//.ries
+  gramm: 
   gloss: POT.IND.2SG
  -flex: .irie//.rie
+  gramm: 
   gloss: POT.IND.3SG
  -flex: .iriemos//.riemos
+  gramm: 
   gloss: POT.IND.1PL
  -flex: .iriedes//.riedes
+  gramm: 
   gloss: POT.IND.2PL
  -flex: .irien//.rien
+  gramm: 
   gloss: POT.IND.3PL
 
  -flex: .a
+  gramm: 
   gloss: PRS.SUBJ.1SG
  -flex: .as
+  gramm: 
   gloss: PRS.SUBJ.2SG
  -flex: .a
+  gramm: 
   gloss: PRS.SUBJ.3SG
  -flex: .amos
+  gramm: 
   gloss: PRS.SUBJ.1PL
  -flex: .ades
+  gramm: 
   gloss: PRS.SUBJ.2PL
  -flex: .an
+  gramm: 
   gloss: PRS.SUBJ.3PL
 
  -flex: .iesse//.iese//.yesse//.yese
+  gramm: 
   gloss: IMPERF.SUBJ.1SG
  -flex: .iesses//.ieses//.yesses//.yeses
+  gramm: 
   gloss: IMPERF.SUBJ.2SG
  -flex: .iesse//.iese//.yesse//.yese
+  gramm: 
   gloss: IMPERF.SUBJ.3SG
  -flex: .iessemos//.iesemos//.yessemos//.yesemos
+  gramm: 
   gloss: IMPERF.SUBJ.1PL
  -flex: .iessedes//.iesedes//.yessedes//.yesedes
+  gramm: 
   gloss: IMPERF.SUBJ.2PL
  -flex: .iessen//.iesen//.yessen//.yesen
+  gramm: 
   gloss: IMPERF.SUBJ.3PL
 
  -flex: .iere//.yere
+  gramm: 
   gloss: FUT.SUBJ.1SG
  -flex: .ieres//.yeres
+  gramm: 
   gloss: FUT.SUBJ.2SG
  -flex: .iere//.yere
+  gramm: 
   gloss: FUT.SUBJ.3SG
  -flex: .ieremos//.yeremos
+  gramm: 
   gloss: FUT.SUBJ.1PL
  -flex: .ieredes//.yeredes
+  gramm: 
   gloss: FUT.SUBJ.2PL
  -flex: .ieren//.yeren
+  gramm: 
   gloss: FUT.SUBJ.3PL
 
 -paradigm: V_ser
@@ -636,12 +822,16 @@
 
 -paradigm: PRON
  -flex: .e//.//.o
+  gramm: 
   gloss:M.SG
  -flex: .a
+  gramm: 
   gloss:F.SG
  -flex: .os//.es
+  gramm: 
   gloss:M.PL
  -flex: .as
+  gramm: 
   gloss:F.PL
 
 -paradigm: PRON_yo
