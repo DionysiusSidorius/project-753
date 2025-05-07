@@ -99,7 +99,7 @@
   gloss: PART.F.PL
 
 
- -flex: .o
+ -flex: .o//.oy
   gramm: prs,ind,1sg
   gloss: PRS.IND.1SG
  -flex: .as
@@ -304,7 +304,7 @@
   gloss: PART.F.PL
 
 
- -flex: .o
+ -flex: .o//.oy
   gramm: prs,ind,1sg
   gloss: PRS.IND.1SG
  -flex: .es
@@ -506,7 +506,7 @@
   gloss: PART.F.PL
 
 
- -flex: .o
+ -flex: .o//.oy
   gramm: prs,ind,1sg
   gloss: PRS.IND.1SG
  -flex: .es
