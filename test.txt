@@ -33,7 +33,7 @@ tinctas:adj,pl,fem
 desarradas:adj,pl,fem
 desusadas:adj,pl,fem
 esquierdas:adj,pl,fem
-mansas:adj,pl,fem
+andoscas:adj,pl,fem
 
 -EN -o
 
