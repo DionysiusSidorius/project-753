@@ -279,7 +279,7 @@
  -flex: .er
   gramm: inf
   gloss: INF
- -flex: .iendo//.yendo
+ -flex: .iendo//.yendo//.jendo
   gramm: ger
   gloss: GER
  -flex: .e//.//.y
