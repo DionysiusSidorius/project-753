@@ -36,7 +36,7 @@
   gloss: M.Pl
  -flex: .as
   gramm: fem,pl
-  gramm: F.Pl
+  gloss: F.Pl
 -paradigm: ADJ_C
  -flex: .
   gramm: sg
