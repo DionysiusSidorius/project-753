@@ -336,29 +336,29 @@ tanxiessen:imperf,subj,3pl,verb
 sobreuiniessen:imperf,subj,3pl,verb
 
 -FUTURO
-:fut,subj,1sg,verb
-:fut,subj,1sg,verb
-:fut,subj,1sg,verb
+atapare:fut,subj,1sg,verb
+reboluiere:fut,subj,1sg,verb
+recibiere:fut,subj,1sg,verb
 
-:fut,subj,2sg,verb
-:fut,subj,2sg,verb
-:fut,subj,2sg,verb
+uendimiares:fut,subj,2sg,verb
+offrescieres:fut,subj,2sg,verb
+midieres:fut,subj,2sg,verb
 
-:fut,subj,3sg,verb
-:fut,subj,3sg,verb
-:fut,subj,3sg,verb
+hermare:fut,subj,3sg,verb
+ençendiere:fut,subj,3sg,verb
+firuiere:fut,subj,3sg,verb
 
-:fut,subj,1pl,verb
-:fut,subj,1pl,verb
-:fut,subj,1pl,verb
+tractaremos:fut,subj,1pl,verb
+entendieremos:fut,subj,1pl,verb
+uisquieremos:fut,subj,1pl,verb
 
-:fut,subj,2pl,verb
-:fut,subj,2pl,verb
-:fut,subj,2pl,verb
+sembraredes:fut,subj,2pl,verb
+cogieredes:fut,subj,2pl,verb
+pidieredes:fut,subj,2pl,verb
 
-:fut,subj,3pl,verb
-:fut,subj,3pl,verb
-:fut,subj,3pl,verb
+saludaren:fut,subj,3pl,verb
+reboluieren:fut,subj,3pl,verb
+siguieren:fut,subj,3pl,verb
 
 -IMPERATIVO
 deguella:imp,2sg,verb
