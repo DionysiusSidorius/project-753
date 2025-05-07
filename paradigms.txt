@@ -291,16 +291,16 @@
 
 
  -flex: .ido//.udo//.ydo//.to//.o
-  gramm: part,m,sg
+  gramm: part,masc,sg
   gloss: PART.M.SG
  -flex: .ida//.uda//.yda//.ta//.a
-  gramm: part,f,sg
+  gramm: part,fem,sg
   gloss: PART.F.SG
  -flex: .idos//.udos//.ydos//.tos//.os
-  gramm: part,m,pl
+  gramm: part,masc,pl
   gloss: PART.M.PL
  -flex: .idas//.udas//.ydas//.tas//.as
-  gramm: part,f,pl
+  gramm: part,fem,pl
   gloss: PART.F.PL
 
 
@@ -493,16 +493,16 @@
 
 
  -flex: .ido//.udo//.ydo//.to//.o
-  gramm: part,m,sg
+  gramm: part,masc,sg
   gloss: PART.M.SG
  -flex: .ida//.uda//.yda//.ta//.a
-  gramm: part,f,sg
+  gramm: part,fem,sg
   gloss: PART.F.SG
  -flex: .idos//.udos//.ydos//.tos//.os
-  gramm: part,m,pl
+  gramm: part,masc,pl
   gloss: PART.M.PL
  -flex: .idas//.udas//.ydas//.tas//.as
-  gramm: part,f,pl
+  gramm: part,fem,pl
   gloss: PART.F.PL
 
 
