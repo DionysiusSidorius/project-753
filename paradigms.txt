@@ -437,22 +437,22 @@
   gramm: prs,subj,3pl
   gloss: PRS.SUBJ.3PL
 
- -flex: .iesse//.iese//.yesse//.yese
+ -flex: .iesse//.iese//.yesse//.yese//.isse//.ise
   gramm: imperf,subj,1sg
   gloss: IMPERF.SUBJ.1SG
- -flex: .iesses//.ieses//.yesses//.yeses
+ -flex: .iesses//.ieses//.yesses//.yeses//.isses//.ises
   gramm: imperf,subj,2sg
   gloss: IMPERF.SUBJ.2SG
- -flex: .iesse//.iese//.yesse//.yese
+ -flex: .iesse//.iese//.yesse//.yese//.isse//.ise
   gramm: imperf,subj,3sg
   gloss: IMPERF.SUBJ.3SG
- -flex: .iessemos//.iesemos//.yessemos//.yesemos
+ -flex: .iessemos//.iesemos//.yessemos//.yesemos//.issemos//.isemos
   gramm: imperf,subj,1pl
   gloss: IMPERF.SUBJ.1PL
- -flex: .iessedes//.iesedes//.yessedes//.yesedes
+ -flex: .iessedes//.iesedes//.yessedes//.yesedes//.issedes//.isedes
   gramm: imperf,subj,2pl
   gloss: IMPERF.SUBJ.2PL
- -flex: .iessen//.iesen//.yessen//.yesen
+ -flex: .iessen//.iesen//.yessen//.yesen//.issen//.isen
   gramm: imperf,subj,3pl
   gloss: IMPERF.SUBJ.3PL
 
