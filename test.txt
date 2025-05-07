@@ -134,29 +134,29 @@ porque:conj
 -VERBOS
 -INDICATIVO
 -PRESENTE
-:prs,ind,1sg
-:prs,ind,1sg
-:prs,ind,1sg
+deseo:prs,ind,1sg
+espiendo:prs,ind,1sg
+mido:prs,ind,1sg
 
-:prs,ind,2sg
-:prs,ind,2sg
-:prs,ind,2sg
+rectificas:prs,ind,2sg
+refazes:prs,ind,2sg
+entenebresces:prs,ind,2sg
 
-:prs,ind,3sg
-:prs,ind,3sg
-:prs,ind,3sg
+proporciona:prs,ind,3sg
+rahe:prs,ind,3sg
+prouiene:prs,ind,3sg
 
-:prs,ind,1pl
-:prs,ind,1pl
-:prs,ind,1pl
+razonamos:prs,ind,1pl
+creemos:prs,ind,1pl
+encobrimos:prs,ind,1pl
 
-:prs,ind,2pl
-:prs,ind,2pl
-:prs,ind,2pl
+guardades:prs,ind,2pl
+yazedes:prs,ind,2pl
+adozides:prs,ind,2pl
 
-:prs,ind,3pl
-:prs,ind,3pl
-:prs,ind,3pl
+corroçan:prs,ind,3pl
+duelen:prs,ind,3pl
+duermen:prs,ind,3pl
 
 -PRETERITO
 :pret,ind,1sg
