@@ -159,29 +159,29 @@ duelen:prs,ind,3pl
 duermen:prs,ind,3pl
 
 -PRETERITO
-:pret,ind,1sg
-:pret,ind,1sg
-:pret,ind,1sg
+comende:pret,ind,1sg
+ascondi:pret,ind,1sg
+pari:pret,ind,1sg
 
-:pret,ind,2sg
-:pret,ind,2sg
-:pret,ind,2sg
+puiaste:pret,ind,2sg
+rompist:pret,ind,2sg
+seruiste:pret,ind,2sg
 
-:pret,ind,3sg
-:pret,ind,3sg
-:pret,ind,3sg
+sermono:pret,ind,3sg
+reuoluio:pret,ind,3sg
+perçibio:pret,ind,3sg
 
-:pret,ind,1pl
-:pret,ind,1pl
-:pret,ind,1pl
+pensamos:pret,ind,1pl
+aprendimos:pret,ind,1pl
+conquerimos:pret,ind,1pl
 
-:pret,ind,2pl
-:pret,ind,2pl
-:pret,ind,2pl
+desbaratastes:pret,ind,2pl
+merecistes:pret,ind,2pl
+nascistes:pret,ind,2pl
 
-:pret,ind,3pl
-:pret,ind,3pl
-:pret,ind,3pl
+penssaron:pret,ind,3pl
+defendieron:pret,ind,3pl
+abrieron:pret,ind,3pl
 
 -IMPERFECTO
 :imperf,ind,1sg
