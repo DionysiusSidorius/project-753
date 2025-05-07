@@ -387,18 +387,18 @@ duermen:prs,ind,3pl
 :fut,subj,3pl
 
 -IMPERATIVO
-:imp,2sg
-:imp,2sg
-:imp,2sg
+deguella:imp,2sg
+aparesce:imp,2sg
+escarne:imp,2sg
 
-:imp,2pl
-:imp,2pl
-:imp,2pl
+descabesçad:imp,2pl
+defendet:imp,2pl
+complid:imp,2pl
 
 -INFINITIVO
-:inf
-:inf
-:inf
+melezinar:inf
+reconnoscer:inf
+dormir:inf
 
 -GERUNDIO
 :ger
