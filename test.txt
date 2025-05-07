@@ -206,7 +206,7 @@ pidiedes:imperf,ind,2pl,verb
 
 ministrauan:imperf,ind,3pl,verb
 iazien:imperf,ind,3pl,verb
-seruie:imperf,ind,3pl,verb
+seruien:imperf,ind,3pl,verb
 
 -PLUSCUAMPERFECTO
 :pqp,ind,1sg,verb
