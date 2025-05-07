@@ -247,11 +247,11 @@ preara:fut,ind,3sg,verb
 creera:fut,ind,3sg,verb
 destroyra:fut,ind,3sg,verb
 
-ganaramos:fut,ind,1pl,verb
+ganaremos:fut,ind,1pl,verb
 combremos:fut,ind,1pl,verb
 repentiremos:fut,ind,1pl,verb
 
-conprarades:fut,ind,2pl,verb
+conpraredes:fut,ind,2pl,verb
 tembredes:fut,ind,2pl,verb
 seruiredes:fut,ind,2pl,verb
 
