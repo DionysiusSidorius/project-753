@@ -260,29 +260,29 @@ toldran:fut,ind,3pl,verb
 uiuiran:fut,ind,3pl,verb
 
 -POTENCIAL
-:pot,ind,1sg,verb
-:pot,ind,1sg,verb
-:pot,ind,1sg,verb
+sacaria:pot,ind,1sg,verb
+maltraeria:pot,ind,1sg,verb
+abriria:pot,ind,1sg,verb
 
-:pot,ind,2sg,verb
-:pot,ind,2sg,verb
-:pot,ind,2sg,verb
+echaries:pot,ind,2sg,verb
+acorreries:pot,ind,2sg,verb
+descubriries:pot,ind,2sg,verb
 
-:pot,ind,3sg,verb
-:pot,ind,3sg,verb
-:pot,ind,3sg,verb
+acabarie:pot,ind,3sg,verb
+combrie:pot,ind,3sg,verb
+facirie:pot,ind,3sg,verb
 
-:pot,ind,1pl,verb
-:pot,ind,1pl,verb
-:pot,ind,1pl,verb
+quedariemos:pot,ind,1pl,verb
+moueriemos:pot,ind,1pl,verb
+compartiriemos:pot,ind,1pl,verb
 
-:pot,ind,2pl,verb
-:pot,ind,2pl,verb
-:pot,ind,2pl,verb
+circuncidariedes:pot,ind,2pl,verb
+credriedes:pot,ind,2pl,verb
+cubririedes:pot,ind,2pl,verb
 
-:pot,ind,3pl,verb
-:pot,ind,3pl,verb
-:pot,ind,3pl,verb
+tardarien:pot,ind,3pl,verb
+vencerien:pot,ind,3pl,verb
+seruirien:pot,ind,3pl,verb
 
 -SUBJUNTIVO
 -PRESENTE
@@ -334,32 +334,6 @@ uiuiran:fut,ind,3pl,verb
 :imperf,subj,3pl,verb
 :imperf,subj,3pl,verb
 :imperf,subj,3pl,verb
-
--PLUSCUAMPERFECTO
-:pqp,subj,1sg,verb
-:pqp,subj,1sg,verb
-:pqp,subj,1sg,verb
-
-:pqp,subj,2sg,verb
-:pqp,subj,2sg,verb
-:pqp,subj,2sg,verb
-
-:pqp,subj,3sg,verb
-:pqp,subj,3sg,verb
-:pqp,subj,3sg,verb
-
-:pqp,subj,1pl,verb
-:pqp,subj,1pl,verb
-:pqp,subj,1pl,verb
-
-:pqp,subj,2pl,verb
-:pqp,subj,2pl,verb
-:pqp,subj,2pl,verb
-
-:pqp,subj,3pl,verb
-:pqp,subj,3pl,verb
-:pqp,subj,3pl,verb
-
 
 -FUTURO
 :fut,subj,1sg,verb
