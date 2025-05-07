@@ -406,17 +406,17 @@ entendiendo:ger,verb
 nuziendo:ger,verb
 
 -PARTICIPIOS
-negado:masc,sg,verb
-espendudo:masc,sg,verb
-escripto:masc,sg,verb
+negado:part,masc,sg,verb
+espendudo:part,masc,sg,verb
+escripto:part,masc,sg,verb
 
-beneficiados:masc,pl,verb
-molidos:masc,pl,verb
-percebidos:masc,pl,verb
+beneficiados:part,masc,pl,verb
+molidos:part,masc,pl,verb
+percebidos:part,masc,pl,verb
 
-untada:fem,sg,verb
-acorrida:fem,sg,verb
-adormida:fem,sg,verb
+untada:part,fem,sg,verb
+acorrida:part,fem,sg,verb
+adormida:part,fem,sg,verb
 
 falagadas:fem,pl,verb
 encendudas:fem,pl,verb
