@@ -286,29 +286,29 @@ seruirien:pot,ind,3pl,verb
 
 -SUBJUNTIVO
 -PRESENTE
-:prs,subj,1sg,verb
-:prs,subj,1sg,verb
-:prs,subj,1sg,verb
+axalte:prs,subj,1sg,verb
+plega:prs,subj,1sg,verb
+corta:prs,subj,1sg,verb
 
-:prs,subj,2sg,verb
-:prs,subj,2sg,verb
-:prs,subj,2sg,verb
+poses:prs,subj,2sg,verb
+resueluas:prs,subj,2sg,verb
+concibas:prs,subj,2sg,verb
 
-:prs,subj,3sg,verb
-:prs,subj,3sg,verb
-:prs,subj,3sg,verb
+rabee:prs,subj,3sg,verb
+prouea:prs,subj,3sg,verb
+sirua:prs,subj,3sg,verb
 
-:prs,subj,1pl,verb
-:prs,subj,1pl,verb
-:prs,subj,1pl,verb
+sacrifiquemos:prs,subj,1pl,verb
+prendamos:prs,subj,1pl,verb
+recibamos:prs,subj,1pl,verb
 
-:prs,subj,2pl,verb
-:prs,subj,2pl,verb
-:prs,subj,2pl,verb
+porfiedes:prs,subj,2pl,verb
+obedescades:prs,subj,2pl,verb
+pidades:prs,subj,2pl,verb
 
-:prs,subj,3pl,verb
-:prs,subj,3pl,verb
-:prs,subj,3pl,verb
+pequen:prs,subj,3pl,verb
+tangan:prs,subj,3pl,verb
+pesquiran:prs,subj,3pl,verb
 
 -IMPERFECTO
 :imperf,subj,1sg,verb
