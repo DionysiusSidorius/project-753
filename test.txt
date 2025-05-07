@@ -401,23 +401,23 @@ reconnoscer:inf
 dormir:inf
 
 -GERUNDIO
-:ger
-:ger
-:ger
+afogando:ger
+entendiendo:ger
+nuziendo:ger
 
 -PARTICIPIOS
-:masc,sg
-:masc,sg
-:masc,sg
+negado:masc,sg
+espendudo:masc,sg
+escripto:masc,sg
 
-:masc,pl
-:masc,pl
-:masc,pl
+beneficiados:masc,pl
+molidos:masc,pl
+percebidos:masc,pl
 
-:fem,sg
-:fem,sg
-:fem,sg
+untada:fem,sg
+acorrida:fem,sg
+adormida:fem,sg
 
-:fem,pl
-:fem,pl
-:fem,pl
+falagadas:fem,pl
+encendudas:fem,pl
+encessas:fem,pl
