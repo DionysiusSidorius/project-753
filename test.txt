@@ -418,6 +418,6 @@ untada:part,fem,sg,verb
 acorrida:part,fem,sg,verb
 adormida:part,fem,sg,verb
 
-falagadas:fem,pl,verb
-encendudas:fem,pl,verb
-encessas:fem,pl,verb
+falagadas:part,fem,pl,verb
+encendudas:part,fem,pl,verb
+encessas:part,fem,pl,verb
