@@ -17,7 +17,7 @@ porfiado:adj,sg,masc
 movido:adj,sg,masc
 injurioso:adj,sg,masc
 
-ietulo:adj,pl,masc
+ietulos:adj,pl,masc
 granados:adj,pl,masc
 hartos:adj,pl,masc
 escollechos:adj,pl,masc
