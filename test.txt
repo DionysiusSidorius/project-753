@@ -311,29 +311,29 @@ tangan:prs,subj,3pl,verb
 pesquiran:prs,subj,3pl,verb
 
 -IMPERFECTO
-:imperf,subj,1sg,verb
-:imperf,subj,1sg,verb
-:imperf,subj,1sg,verb
+sospirasse:imperf,subj,1sg,verb
+reboluiesse:imperf,subj,1sg,verb
+siguiesse:imperf,subj,1sg,verb
 
-:imperf,subj,2sg,verb
-:imperf,subj,2sg,verb
-:imperf,subj,2sg,verb
+folgasses:imperf,subj,2sg,verb
+deuiesses:imperf,subj,2sg,verb
+combatiesses:imperf,subj,2sg,verb
 
-:imperf,subj,3sg,verb
-:imperf,subj,3sg,verb
-:imperf,subj,3sg,verb
+onrasse:imperf,subj,3sg,verb
+perteneciese:imperf,subj,3sg,verb
+parisse:imperf,subj,3sg,verb
 
-:imperf,subj,1pl,verb
-:imperf,subj,1pl,verb
-:imperf,subj,1pl,verb
+ayudassemos:imperf,subj,1pl,verb
+peresciessemos:imperf,subj,1pl,verb
+aduxiessemos:imperf,subj,1pl,verb
 
-:imperf,subj,2pl,verb
-:imperf,subj,2pl,verb
-:imperf,subj,2pl,verb
+heredassedes:imperf,subj,2pl,verb
+beuissedes:imperf,subj,2pl,verb
+siruiessedes:imperf,subj,2pl,verb
 
-:imperf,subj,3pl,verb
-:imperf,subj,3pl,verb
-:imperf,subj,3pl,verb
+pagassen:imperf,subj,3pl,verb
+tanxiessen:imperf,subj,3pl,verb
+sobreuiniessen:imperf,subj,3pl,verb
 
 -FUTURO
 :fut,subj,1sg,verb
