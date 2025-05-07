@@ -286,12 +286,12 @@ seruirien:pot,ind,3pl,verb
 
 -SUBJUNTIVO
 -PRESENTE
-axalte:prs,subj,1sg,verb
+exalte:prs,subj,1sg,verb
 plega:prs,subj,1sg,verb
 corta:prs,subj,1sg,verb
 
 poses:prs,subj,2sg,verb
-resueluas:prs,subj,2sg,verb
+sueluas:prs,subj,2sg,verb
 concibas:prs,subj,2sg,verb
 
 rabee:prs,subj,3sg,verb
