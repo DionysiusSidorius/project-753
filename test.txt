@@ -134,290 +134,290 @@ porque:conj
 -VERBOS
 -INDICATIVO
 -PRESENTE
-deseo:prs,ind,1sg
-espiendo:prs,ind,1sg
-mido:prs,ind,1sg
+deseo:verb,prs,ind,1sg
+espiendo:verb,prs,ind,1sg
+mido:verb,prs,ind,1sg
 
-rectificas:prs,ind,2sg
-refazes:prs,ind,2sg
-entenebresces:prs,ind,2sg
+rectificas:verb,prs,ind,2sg
+refazes:verb,prs,ind,2sg
+entenebresces:verb,prs,ind,2sg
 
-proporciona:prs,ind,3sg
-rahe:prs,ind,3sg
-prouiene:prs,ind,3sg
+proporciona:verb,prs,ind,3sg
+rahe:verb,prs,ind,3sg
+prouiene:verb,prs,ind,3sg
 
-razonamos:prs,ind,1pl
-creemos:prs,ind,1pl
-encobrimos:prs,ind,1pl
+razonamos:verb,prs,ind,1pl
+creemos:verb,prs,ind,1pl
+encobrimos:verb,prs,ind,1pl
 
-guardades:prs,ind,2pl
-yazedes:prs,ind,2pl
-adozides:prs,ind,2pl
+guardades:verb,prs,ind,2pl
+yazedes:verb,prs,ind,2pl
+adozides:verb,prs,ind,2pl
 
-corroçan:prs,ind,3pl
-duelen:prs,ind,3pl
-duermen:prs,ind,3pl
+corroçan:verb,prs,ind,3pl
+duelen:verb,prs,ind,3pl
+duermen:verb,prs,ind,3pl
 
 -PRETERITO
-comende:pret,ind,1sg
-ascondi:pret,ind,1sg
-pari:pret,ind,1sg
+comende:verb,pret,ind,1sg
+ascondi:verb,pret,ind,1sg
+pari:verb,pret,ind,1sg
 
-puiaste:pret,ind,2sg
-rompist:pret,ind,2sg
-seruiste:pret,ind,2sg
+puiaste:verb,pret,ind,2sg
+rompist:pret,ind,2sg,verb
+seruiste:pret,ind,2sg,verb
 
-sermono:pret,ind,3sg
-reuoluio:pret,ind,3sg
-perçibio:pret,ind,3sg
+sermono:pret,ind,3sg,verb
+reuoluio:pret,ind,3sg,verb
+perçibio:pret,ind,3sg,verb
 
-pensamos:pret,ind,1pl
-aprendimos:pret,ind,1pl
-conquerimos:pret,ind,1pl
+pensamos:pret,ind,1pl,verb
+aprendimos:pret,ind,1pl,verb
+conquerimos:pret,ind,1pl,verb
 
-desbaratastes:pret,ind,2pl
-merecistes:pret,ind,2pl
-nascistes:pret,ind,2pl
+desbaratastes:pret,ind,2pl,verb
+merecistes:pret,ind,2pl,verb
+nascistes:pret,ind,2pl,verb
 
-penssaron:pret,ind,3pl
-defendieron:pret,ind,3pl
-abrieron:pret,ind,3pl
+penssaron:pret,ind,3pl,verb
+defendieron:pret,ind,3pl,verb
+abrieron:pret,ind,3pl,verb
 
 -IMPERFECTO
-ganaua:imperf,ind,1sg
-mouia:imperf,ind,1sg
-naçia:imperf,ind,1sg
+ganaua:imperf,ind,1sg,verb
+mouia:imperf,ind,1sg,verb
+naçia:imperf,ind,1sg,verb
 
-sacrificauas:imperf,ind,2sg
-ploguies:imperf,ind,2sg
-ascondies:imperf,ind,2sg
+sacrificauas:imperf,ind,2sg,verb
+ploguies:imperf,ind,2sg,verb
+ascondies:imperf,ind,2sg,verb
 
-reptaua:imperf,ind,3sg
-auie:imperf,ind,3sg
-espauorescie:imperf,ind,3sg
+reptaua:imperf,ind,3sg,verb
+auie:imperf,ind,3sg,verb
+espauorescie:imperf,ind,3sg,verb
 
-cuydauamos:imperf,ind,1pl
-firiemos:imperf,ind,1pl
-mintiemos:imperf,ind,1pl
+cuydauamos:imperf,ind,1pl,verb
+firiemos:imperf,ind,1pl,verb
+mintiemos:imperf,ind,1pl,verb
 
-mandauades:imperf,ind,2pl
-uiuiedes:imperf,ind,2pl
-pidiedes:imperf,ind,2pl
+mandauades:imperf,ind,2pl,verb
+uiuiedes:imperf,ind,2pl,verb
+pidiedes:imperf,ind,2pl,verb
 
-ministrauan:imperf,ind,3pl
-iazien:imperf,ind,3pl
-seruie:imperf,ind,3pl
+ministrauan:imperf,ind,3pl,verb
+iazien:imperf,ind,3pl,verb
+seruie:imperf,ind,3pl,verb
 
 -PLUSCUAMPERFECTO
-:pqp,ind,1sg
-:pqp,ind,1sg
-:pqp,ind,1sg
+:pqp,ind,1sg,verb
+:pqp,ind,1sg,verb
+:pqp,ind,1sg,verb
 
-:pqp,ind,2sg
-:pqp,ind,2sg
-:pqp,ind,2sg
+:pqp,ind,2sg,verb
+:pqp,ind,2sg,verb
+:pqp,ind,2sg,verb
 
-:pqp,ind,3sg
-:pqp,ind,3sg
-:pqp,ind,3sg
+:pqp,ind,3sg,verb
+:pqp,ind,3sg,verb
+:pqp,ind,3sg,verb
 
-:pqp,ind,1pl
-:pqp,ind,1pl
-:pqp,ind,1pl
+:pqp,ind,1pl,verb
+:pqp,ind,1pl,verb
+:pqp,ind,1pl,verb
 
-:pqp,ind,2pl
-:pqp,ind,2pl
-:pqp,ind,2pl
+:pqp,ind,2pl,verb
+:pqp,ind,2pl,verb
+:pqp,ind,2pl,verb
 
-:pqp,ind,3pl
-:pqp,ind,3pl
-:pqp,ind,3pl
+:pqp,ind,3pl,verb
+:pqp,ind,3pl,verb
+:pqp,ind,3pl,verb
 
 
 -FUTURO
-:fut,ind,1sg
-:fut,ind,1sg
-:fut,ind,1sg
+:fut,ind,1sg,verb
+:fut,ind,1sg,verb
+:fut,ind,1sg,verb
 
-:fut,ind,2sg
-:fut,ind,2sg
-:fut,ind,2sg
+:fut,ind,2sg,verb
+:fut,ind,2sg,verb
+:fut,ind,2sg,verb
 
-:fut,ind,3sg
-:fut,ind,3sg
-:fut,ind,3sg
+:fut,ind,3sg,verb
+:fut,ind,3sg,verb
+:fut,ind,3sg,verb
 
-:fut,ind,1pl
-:fut,ind,1pl
-:fut,ind,1pl
+:fut,ind,1pl,verb
+:fut,ind,1pl,verb
+:fut,ind,1pl,verb
 
-:fut,ind,2pl
-:fut,ind,2pl
-:fut,ind,2pl
+:fut,ind,2pl,verb
+:fut,ind,2pl,verb
+:fut,ind,2pl,verb
 
-:fut,ind,3pl
-:fut,ind,3pl
-:fut,ind,3pl
+:fut,ind,3pl,verb
+:fut,ind,3pl,verb
+:fut,ind,3pl,verb
 
 -POTENCIAL
-:pot,ind,1sg
-:pot,ind,1sg
-:pot,ind,1sg
+:pot,ind,1sg,verb
+:pot,ind,1sg,verb
+:pot,ind,1sg,verb
 
-:pot,ind,2sg
-:pot,ind,2sg
-:pot,ind,2sg
+:pot,ind,2sg,verb
+:pot,ind,2sg,verb
+:pot,ind,2sg,verb
 
-:pot,ind,3sg
-:pot,ind,3sg
-:pot,ind,3sg
+:pot,ind,3sg,verb
+:pot,ind,3sg,verb
+:pot,ind,3sg,verb
 
-:pot,ind,1pl
-:pot,ind,1pl
-:pot,ind,1pl
+:pot,ind,1pl,verb
+:pot,ind,1pl,verb
+:pot,ind,1pl,verb
 
-:pot,ind,2pl
-:pot,ind,2pl
-:pot,ind,2pl
+:pot,ind,2pl,verb
+:pot,ind,2pl,verb
+:pot,ind,2pl,verb
 
-:pot,ind,3pl
-:pot,ind,3pl
-:pot,ind,3pl
+:pot,ind,3pl,verb
+:pot,ind,3pl,verb
+:pot,ind,3pl,verb
 
 -SUBJUNTIVO
 -PRESENTE
-:prs,subj,1sg
-:prs,subj,1sg
-:prs,subj,1sg
+:prs,subj,1sg,verb
+:prs,subj,1sg,verb
+:prs,subj,1sg,verb
 
-:prs,subj,2sg
-:prs,subj,2sg
-:prs,subj,2sg
+:prs,subj,2sg,verb
+:prs,subj,2sg,verb
+:prs,subj,2sg,verb
 
-:prs,subj,3sg
-:prs,subj,3sg
-:prs,subj,3sg
+:prs,subj,3sg,verb
+:prs,subj,3sg,verb
+:prs,subj,3sg,verb
 
-:prs,subj,1pl
-:prs,subj,1pl
-:prs,subj,1pl
+:prs,subj,1pl,verb
+:prs,subj,1pl,verb
+:prs,subj,1pl,verb
 
-:prs,subj,2pl
-:prs,subj,2pl
-:prs,subj,2pl
+:prs,subj,2pl,verb
+:prs,subj,2pl,verb
+:prs,subj,2pl,verb
 
-:prs,subj,3pl
-:prs,subj,3pl
-:prs,subj,3pl
+:prs,subj,3pl,verb
+:prs,subj,3pl,verb
+:prs,subj,3pl,verb
 
 -IMPERFECTO
-:imperf,subj,1sg
-:imperf,subj,1sg
-:imperf,subj,1sg
+:imperf,subj,1sg,verb
+:imperf,subj,1sg,verb
+:imperf,subj,1sg,verb
 
-:imperf,subj,2sg
-:imperf,subj,2sg
-:imperf,subj,2sg
+:imperf,subj,2sg,verb
+:imperf,subj,2sg,verb
+:imperf,subj,2sg,verb
 
-:imperf,subj,3sg
-:imperf,subj,3sg
-:imperf,subj,3sg
+:imperf,subj,3sg,verb
+:imperf,subj,3sg,verb
+:imperf,subj,3sg,verb
 
-:imperf,subj,1pl
-:imperf,subj,1pl
-:imperf,subj,1pl
+:imperf,subj,1pl,verb
+:imperf,subj,1pl,verb
+:imperf,subj,1pl,verb
 
-:imperf,subj,2pl
-:imperf,subj,2pl
-:imperf,subj,2pl
+:imperf,subj,2pl,verb
+:imperf,subj,2pl,verb
+:imperf,subj,2pl,verb
 
-:imperf,subj,3pl
-:imperf,subj,3pl
-:imperf,subj,3pl
+:imperf,subj,3pl,verb
+:imperf,subj,3pl,verb
+:imperf,subj,3pl,verb
 
 -PLUSCUAMPERFECTO
-:pqp,subj,1sg
-:pqp,subj,1sg
-:pqp,subj,1sg
+:pqp,subj,1sg,verb
+:pqp,subj,1sg,verb
+:pqp,subj,1sg,verb
 
-:pqp,subj,2sg
-:pqp,subj,2sg
-:pqp,subj,2sg
+:pqp,subj,2sg,verb
+:pqp,subj,2sg,verb
+:pqp,subj,2sg,verb
 
-:pqp,subj,3sg
-:pqp,subj,3sg
-:pqp,subj,3sg
+:pqp,subj,3sg,verb
+:pqp,subj,3sg,verb
+:pqp,subj,3sg,verb
 
-:pqp,subj,1pl
-:pqp,subj,1pl
-:pqp,subj,1pl
+:pqp,subj,1pl,verb
+:pqp,subj,1pl,verb
+:pqp,subj,1pl,verb
 
-:pqp,subj,2pl
-:pqp,subj,2pl
-:pqp,subj,2pl
+:pqp,subj,2pl,verb
+:pqp,subj,2pl,verb
+:pqp,subj,2pl,verb
 
-:pqp,subj,3pl
-:pqp,subj,3pl
-:pqp,subj,3pl
+:pqp,subj,3pl,verb
+:pqp,subj,3pl,verb
+:pqp,subj,3pl,verb
 
 
 -FUTURO
-:fut,subj,1sg
-:fut,subj,1sg
-:fut,subj,1sg
+:fut,subj,1sg,verb
+:fut,subj,1sg,verb
+:fut,subj,1sg,verb
 
-:fut,subj,2sg
-:fut,subj,2sg
-:fut,subj,2sg
+:fut,subj,2sg,verb
+:fut,subj,2sg,verb
+:fut,subj,2sg,verb
 
-:fut,subj,3sg
-:fut,subj,3sg
-:fut,subj,3sg
+:fut,subj,3sg,verb
+:fut,subj,3sg,verb
+:fut,subj,3sg,verb
 
-:fut,subj,1pl
-:fut,subj,1pl
-:fut,subj,1pl
+:fut,subj,1pl,verb
+:fut,subj,1pl,verb
+:fut,subj,1pl,verb
 
-:fut,subj,2pl
-:fut,subj,2pl
-:fut,subj,2pl
+:fut,subj,2pl,verb
+:fut,subj,2pl,verb
+:fut,subj,2pl,verb
 
-:fut,subj,3pl
-:fut,subj,3pl
-:fut,subj,3pl
+:fut,subj,3pl,verb
+:fut,subj,3pl,verb
+:fut,subj,3pl,verb
 
 -IMPERATIVO
-deguella:imp,2sg
-aparesce:imp,2sg
-escarne:imp,2sg
+deguella:imp,2sg,verb
+aparesce:imp,2sg,verb
+escarne:imp,2sg,verb
 
-descabesçad:imp,2pl
-defendet:imp,2pl
-complid:imp,2pl
+descabesçad:imp,2pl,verb
+defendet:imp,2pl,verb
+complid:imp,2pl,verb
 
 -INFINITIVO
-melezinar:inf
-reconnoscer:inf
-dormir:inf
+melezinar:inf,verb
+reconnoscer:inf,verb
+dormir:inf,verb
 
 -GERUNDIO
-afogando:ger
-entendiendo:ger
-nuziendo:ger
+afogando:ger,verb
+entendiendo:ger,verb
+nuziendo:ger,verb
 
 -PARTICIPIOS
-negado:masc,sg
-espendudo:masc,sg
-escripto:masc,sg
+negado:masc,sg,verb
+espendudo:masc,sg,verb
+escripto:masc,sg,verb
 
-beneficiados:masc,pl
-molidos:masc,pl
-percebidos:masc,pl
+beneficiados:masc,pl,verb
+molidos:masc,pl,verb
+percebidos:masc,pl,verb
 
-untada:fem,sg
-acorrida:fem,sg
-adormida:fem,sg
+untada:fem,sg,verb
+acorrida:fem,sg,verb
+adormida:fem,sg,verb
 
-falagadas:fem,pl
-encendudas:fem,pl
-encessas:fem,pl
+falagadas:fem,pl,verb
+encendudas:fem,pl,verb
+encessas:fem,pl,verb
