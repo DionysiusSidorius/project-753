@@ -184,29 +184,29 @@ defendieron:pret,ind,3pl
 abrieron:pret,ind,3pl
 
 -IMPERFECTO
-:imperf,ind,1sg
-:imperf,ind,1sg
-:imperf,ind,1sg
+ganaua:imperf,ind,1sg
+mouia:imperf,ind,1sg
+naçia:imperf,ind,1sg
 
-:imperf,ind,2sg
-:imperf,ind,2sg
-:imperf,ind,2sg
+sacrificauas:imperf,ind,2sg
+ploguies:imperf,ind,2sg
+ascondies:imperf,ind,2sg
 
-:imperf,ind,3sg
-:imperf,ind,3sg
-:imperf,ind,3sg
+reptaua:imperf,ind,3sg
+auie:imperf,ind,3sg
+espauorescie:imperf,ind,3sg
 
-:imperf,ind,1pl
-:imperf,ind,1pl
-:imperf,ind,1pl
+cuydauamos:imperf,ind,1pl
+firiemos:imperf,ind,1pl
+mintiemos:imperf,ind,1pl
 
-:imperf,ind,2pl
-:imperf,ind,2pl
-:imperf,ind,2pl
+mandauades:imperf,ind,2pl
+uiuiedes:imperf,ind,2pl
+pidiedes:imperf,ind,2pl
 
-:imperf,ind,3pl
-:imperf,ind,3pl
-:imperf,ind,3pl
+ministrauan:imperf,ind,3pl
+iazien:imperf,ind,3pl
+seruie:imperf,ind,3pl
 
 -PLUSCUAMPERFECTO
 :pqp,ind,1sg
