@@ -209,55 +209,55 @@ iazien:imperf,ind,3pl,verb
 seruien:imperf,ind,3pl,verb
 
 -PLUSCUAMPERFECTO
-:pqp,ind,1sg,verb
-:pqp,ind,1sg,verb
-:pqp,ind,1sg,verb
+prestara:pqp,ind,1sg,verb
+uençiera:pqp,ind,1sg,verb
+sofriera:pqp,ind,1sg,verb
 
-:pqp,ind,2sg,verb
-:pqp,ind,2sg,verb
-:pqp,ind,2sg,verb
+sennalaras:pqp,ind,2sg,verb
+deuieras:pqp,ind,2sg,verb
+facieras:pqp,ind,2sg,verb
 
-:pqp,ind,3sg,verb
-:pqp,ind,3sg,verb
-:pqp,ind,3sg,verb
+uolara:pqp,ind,3sg,verb
+connosciera:pqp,ind,3sg,verb
+combatiera:pqp,ind,3sg,verb
 
-:pqp,ind,1pl,verb
-:pqp,ind,1pl,verb
-:pqp,ind,1pl,verb
+guardaramos:pqp,ind,1pl,verb
+escogieramos:pqp,ind,1pl,verb
+escriuieramos:pqp,ind,1pl,verb
 
-:pqp,ind,2pl,verb
-:pqp,ind,2pl,verb
-:pqp,ind,2pl,verb
+conprarades:pqp,ind,2pl,verb
+crouierades:pqp,ind,2pl,verb
+consentierades:pqp,ind,2pl,verb
 
-:pqp,ind,3pl,verb
-:pqp,ind,3pl,verb
-:pqp,ind,3pl,verb
+uezaran:pqp,ind,3pl,verb
+mantouieran:pqp,ind,3pl,verb
+pidieran:pqp,ind,3pl,verb
 
 
 -FUTURO
-:fut,ind,1sg,verb
-:fut,ind,1sg,verb
-:fut,ind,1sg,verb
+apegare:fut,ind,1sg,verb
+accaecere:fut,ind,1sg,verb
+complire:fut,ind,1sg,verb
 
-:fut,ind,2sg,verb
-:fut,ind,2sg,verb
-:fut,ind,2sg,verb
+pensaras:fut,ind,2sg,verb
+entendras:fut,ind,2sg,verb
+durmiras:fut,ind,2sg,verb
 
-:fut,ind,3sg,verb
-:fut,ind,3sg,verb
-:fut,ind,3sg,verb
+preara:fut,ind,3sg,verb
+creera:fut,ind,3sg,verb
+destroyra:fut,ind,3sg,verb
 
-:fut,ind,1pl,verb
-:fut,ind,1pl,verb
-:fut,ind,1pl,verb
+ganaramos:fut,ind,1pl,verb
+combremos:fut,ind,1pl,verb
+repentiremos:fut,ind,1pl,verb
 
-:fut,ind,2pl,verb
-:fut,ind,2pl,verb
-:fut,ind,2pl,verb
+conprarades:fut,ind,2pl,verb
+tembredes:fut,ind,2pl,verb
+seruiredes:fut,ind,2pl,verb
 
-:fut,ind,3pl,verb
-:fut,ind,3pl,verb
-:fut,ind,3pl,verb
+cocearan:fut,ind,3pl,verb
+toldran:fut,ind,3pl,verb
+uiuiran:fut,ind,3pl,verb
 
 -POTENCIAL
 :pot,ind,1sg,verb
