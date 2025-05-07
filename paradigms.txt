@@ -119,155 +119,155 @@
   gloss: PRS.IND.3PL
 
  -flex: .e
-  gramm: 
+  gramm: pret,ind,1sg
   gloss: PRET.IND.1SG
  -flex: .aste//.este//.ast//.est
-  gramm: 
+  gramm: pret,ind,2sg
   gloss: PRET.IND.2SG
  -flex: .o
-  gramm: 
+  gramm: pret,ind,3sg
   gloss: PRET.IND.3SG
  -flex: .amos
-  gramm: 
+  gramm: pret,ind,1pl
   gloss: PRET.IND.1PL
  -flex: .astes
-  gramm: 
+  gramm: pret,ind,2pl
   gloss: PRET.IND.2PL
  -flex: .aron
-  gramm: 
+  gramm: pret,ind,3pl
   gloss: PRET.IND.3PL
 
  -flex: .aua//.aba
-  gramm: 
+  gramm: imperf,ind,1sg
   gloss: IMPERF.IND.1SG
  -flex: .auas//.abas
-  gramm: 
+  gramm: imperf,ind,2sg
   gloss: IMPERF.IND.2SG
  -flex: .aua//.aba
-  gramm: 
+  gramm: imperf,ind,3sg
   gloss: IMPERF.IND.3SG
  -flex: .auamos//.abamos
-  gramm: 
+  gramm: imperf,ind,1pl
   gloss: IMPERF.IND.1PL
  -flex: .auades//.abades
-  gramm: 
+  gramm: imperf,ind,2pl
   gloss: IMPERF.IND.2PL
  -flex: .auan//.aban
-  gramm: 
+  gramm: imperf,ind,3pl
   gloss: IMPERF.IND.3PL
 
  -flex: .ara
-  gramm: 
+  gramm: pqp,ind,1sg
   gloss: PQP.IND.1SG
  -flex: .aras
-  gramm: 
+  gramm: pqp,ind,2sg
   gloss: PQP.IND.2SG
  -flex: .ara
-  gramm: 
+  gramm: pqp,ind,3sg
   gloss: PQP.IND.3SG
  -flex: .aramos
-  gramm: 
+  gramm: pqp,ind,1pl
   gloss: PQP.IND.1PL
  -flex: .arades
-  gramm: 
+  gramm: pqp,ind,2pl
   gloss: PQP.IND.2PL
  -flex: .aran
-  gramm: 
+  gramm: pqp,ind,3pl
   gloss: PQP.IND.3PL
 
  -flex: .are
-  gramm: 
+  gramm: fut,ind,1sg
   gloss: FUT.IND.1SG
  -flex: .aras
-  gramm: 
+  gramm: fut,ind,1sg
   gloss: FUT.IND.2SG
  -flex: .ara
-  gramm: 
+  gramm: fut,ind,1sg
   gloss: FUT.IND.3SG
  -flex: .aremos
-  gramm: 
+  gramm: fut,ind,1sg
   gloss: FUT.IND.1PL
  -flex: .aredes
-  gramm: 
+  gramm: fut,ind,1sg
   gloss: FUT.IND.2PL
  -flex: .aran
-  gramm: 
+  gramm: fut,ind,1sg
   gloss: FUT.IND.3PL
 
  -flex: .aria
-  gramm: 
+  gramm: pot,ind,1sg
   gloss: POT.IND.1SG
  -flex: .aries
-  gramm: 
+  gramm: pot,ind,1sg
   gloss: POT.IND.2SG
  -flex: .arie
-  gramm: 
+  gramm: pot,ind,1sg
   gloss: POT.IND.3SG
  -flex: .ariemos
-  gramm: 
+  gramm: pot,ind,1sg
   gloss: POT.IND.1PL
  -flex: .ariedes
-  gramm: 
+  gramm: pot,ind,1sg
   gloss: POT.IND.2PL
  -flex: .arien
-  gramm: 
+  gramm: pot,ind,1sg
   gloss: POT.IND.3PL
 
  -flex: .e
-  gramm: 
+  gramm: prs,subj,1sg
   gloss: PRS.SUBJ.1SG
  -flex: .es
-  gramm: 
+  gramm: prs,subj,1sg
   gloss: PRS.SUBJ.2SG
  -flex: .e
-  gramm: 
+  gramm: prs,subj,1sg
   gloss: PRS.SUBJ.3SG
  -flex: .emos
-  gramm: 
+  gramm: prs,subj,1sg
   gloss: PRS.SUBJ.1PL
  -flex: .edes
-  gramm: 
+  gramm: prs,subj,1sg
   gloss: PRS.SUBJ.2PL
  -flex: .en
-  gramm: 
+  gramm: prs,subj,1sg
   gloss: PRS.SUBJ.3PL
 
  -flex: .asse//.ase
-  gramm: 
+  gramm: imperf,subj,1sg
   gloss: IMPERF.SUBJ.1SG
  -flex: .asses//.ases
-  gramm: 
+  gramm: imperf,subj,1sg
   gloss: IMPERF.SUBJ.2SG
  -flex: .asse//.ase
-  gramm: 
+  gramm: imperf,subj,1sg
   gloss: IMPERF.SUBJ.3SG
  -flex: .assemos//.asemos
-  gramm: 
+  gramm: imperf,subj,1sg
   gloss: IMPERF.SUBJ.1PL
  -flex: .assedes//.asedes
-  gramm: 
+  gramm: imperf,subj,1sg
   gloss: IMPERF.SUBJ.2PL
  -flex: .assen//.asen
-  gramm: 
+  gramm: imperf,subj,1sg
   gloss: IMPERF.SUBJ.3PL
 
  -flex: .are
-  gramm: 
+  gramm: fut,subj,1sg
   gloss: FUT.SUBJ.1SG
  -flex: .ares
-  gramm: 
+  gramm: fut,subj,1sg
   gloss: FUT.SUBJ.2SG
  -flex: .are
-  gramm: 
+  gramm: fut,subj,1sg
   gloss: FUT.SUBJ.3SG
  -flex: .aremos
-  gramm: 
+  gramm: fut,subj,1sg
   gloss: FUT.SUBJ.1PL
  -flex: .aredes
-  gramm: 
+  gramm: fut,subj,1sg
   gloss: FUT.SUBJ.2PL
  -flex: .aren
-  gramm: 
+  gramm: fut,subj,1sg
   gloss: FUT.SUBJ.3PL
 
 
@@ -277,30 +277,30 @@
 -paradigm: V_e
 
  -flex: .er
-  gramm: 
+  gramm: inf
   gloss: INF
  -flex: .iendo//.yendo
-  gramm: 
+  gramm: ger
   gloss: GER
  -flex: .e//.//.y
-  gramm: 
+  gramm: imp,2sg
   gloss: IMP.2SG
  -flex: .ed//.et
-  gramm: 
+  gramm: imp,2pl
   gloss: IMP.2PL
 
 
  -flex: .ido//.udo//.ydo//.to//.o
-  gramm: 
+  gramm: part,m,sg
   gloss: PART.M.SG
  -flex: .ida//.uda//.yda//.ta//.a
-  gramm: 
+  gramm: part,f,sg
   gloss: PART.F.SG
  -flex: .idos//.udos//.ydos//.tos//.os
-  gramm: 
+  gramm: part,m,pl
   gloss: PART.M.PL
  -flex: .idas//.udas//.ydas//.tas//.as
-  gramm: 
+  gramm: part,f,pl
   gloss: PART.F.PL
 
 
