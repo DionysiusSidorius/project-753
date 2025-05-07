@@ -420,4 +420,4 @@ adormida:part,fem,sg,verb
 
 falagadas:part,fem,pl,verb
 encendudas:part,fem,pl,verb
-encessas:part,fem,pl,verb
+presas:part,fem,pl,verb
