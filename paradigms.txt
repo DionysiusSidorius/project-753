@@ -894,15 +894,33 @@
  -flex: .uyas//.uas
   gramm: poss,fem,pl
   gloss: POSS.F.PL
-
-
 -paradigm: PRON_nos
- -flex: .nos
+ -flex: .os
+  gramm: nom
   gloss: NOM
- -flex: .nos
-  gloss: ACC,DAT
- -flex: .nos
+ -flex: .os
+  gramm: acc
+  gloss: ACC
+ -flex: .os
+  gramm: dat
+  gloss: DAT
+ -flex: .os
+  gramm: abl
   gloss: ABL
+ -flex: .uestro//.ostro
+  gramm: poss,masc,sg
+  gloss: POSS.M.SG
+ -flex: .uestros//.ostros
+  gramm: poss,masc,pl
+  gloss: POSS.M.PL
+ -flex: .uestra//.ostra
+  gramm: poss,fem,sg
+  gloss: POSS.F.SG
+ -flex: .uestras//.ostras
+  gramm: poss,fem,pl
+  gloss: POSS.1PL.F.PL
+
+
 -paradigm: PRON_os
  -flex: .vos
   gloss: NOM
@@ -963,14 +981,7 @@
   gloss: POSS.3SG.SG
  -flex: .sus//.sos//.ssus/.ssos
   gloss: POSS.3.PL
- -flex: .nuestro//.nostro
-  gloss: POSS.1PL.M.SG
- -flex: .nuestros//.nostros
-  gloss: POSS.1PL.M.PL
- -flex:.nuestra//.nostra
-  gloss: POSS.1PL.F.SG
- -flex: .nuestras//.nostras
-  gloss: POSS.1PL.F.PL
+
 
  -flex: .vuestro//.uuestro
   gloss: POSS.2PL.M.SG
