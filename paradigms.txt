@@ -942,21 +942,29 @@
   gloss: POSS.2SG.F.PL
 
 -paradigm: ART_el
- -flex: .el//.ell//.l
+ -flex: .
+  gramm: def,masc,sg
   gloss: DEF.M.SG
- -flex: .la
+ -flex: .a
+  gramm: def,fem,sg
   gloss: DEF.F.SG
- -flex: .los//.llos
+ -flex: .os//.los
+  gramm: def,masc,pl
   gloss: DEF.M.PL
- -flex: .las//.llas
+ -flex: .as//.las
+  gramm: def,fem,pl
   gloss: DEF.F.PL
 
 -paradigm: ART_un
  -flex: .n//.m
+  gramm: indef,masc,sg
   gloss: INDEF.M.SG
  -flex: .na
+  gramm: indef,fem,sg
   gloss: INDEF.F.SG
  -flex: .nos
+  gramm: indef,masc,pl
   gloss: INDEF.M.PL
  -flex: .nas
+  gramm: indef,fem,pl
   gloss: INDEF.F.PL
