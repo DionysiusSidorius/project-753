@@ -952,11 +952,11 @@
   gloss: DEF.F.PL
 
 -paradigm: ART_un
- -flex: .un//.um//.vn
+ -flex: .n//.m
   gloss: INDEF.M.SG
- -flex: .una//.vna
+ -flex: .na
   gloss: INDEF.F.SG
- -flex: .unos//.vnos
+ -flex: .nos
   gloss: INDEF.M.PL
- -flex: .unas//.vnas
+ -flex: .nas
   gloss: INDEF.F.PL
