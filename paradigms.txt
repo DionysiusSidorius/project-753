@@ -918,22 +918,42 @@
   gloss: POSS.F.SG
  -flex: .uestras//.ostras
   gramm: poss,fem,pl
-  gloss: POSS.1PL.F.PL
-
-
+  gloss: POSS.F.PL
 -paradigm: PRON_os
- -flex: .vos
+ -flex: .os
+  gramm: nom
   gloss: NOM
- -flex: .os
-  gloss: ACC,DAT
- -flex: .os
-  gloss: ABL
+ -flex: .uestro
+  gramm: poss,masc,sg
+  gloss: POSS.M.SG
+ -flex: .uestros
+  gramm: poss,masc,pl
+  gloss: POSS.M.PL
+ -flex: .uestra
+  gramm: poss,fem,sg
+  gloss: POSS.F.SG
+ -flex: .uestras
+  gramm: poss,fem,pl
+  gloss: POSS.F.PL
+
+
 -paradigm: PRON_se
- -flex: .se//.sse
-  gloss: ACC,DAT
- -flex: .se//.ge//.ie.//je
- -flex: .sí//.si//.sj//.sse//.ssi//.ssy//.sy
-  gloss: ABL
+ -flex: .e//.se
+  gramm: refl,acc
+  gloss: REFL.ACC
+ -flex: .e//.se
+  gloss: refl,dat
+  gloss: REFL.DAT
+ -flex: .í//.i//.j//.se//.si//.sy//.y
+  gloss: refl,abl
+  gloss: REFL.ABL
+ -flex: .u//.o//.su/.so
+  gramm: 3,poss,sg
+  gloss: POSS.3.SG
+ -flex: .us//.os//.sus/.sos
+  gramm: 3,poss,pl
+  gloss: POSS.3.PL
+
 
 -paradigm: PRON_el1
  -flex: .l//.ll//.lle
@@ -973,25 +993,6 @@
  -flex: .es//.is//.les
   gramm: dat,pl,fem
   gloss: DAT.PL.F
-
--paradigm: PRON_poss
-
- 
- -flex: .su//.so//.ssu/.sso
-  gloss: POSS.3SG.SG
- -flex: .sus//.sos//.ssus/.ssos
-  gloss: POSS.3.PL
-
-
- -flex: .vuestro//.uuestro
-  gloss: POSS.2PL.M.SG
- -flex: .vuestros//.uuestros
-  gloss: POSS.2PL.M.PL
- -flex: .vuestra//.uuestra
-  gloss: POSS.2PL.F.SG
- -flex: .vuestras//.uuestras
-  gloss: POSS.2PL.F.PL
-
 
 -paradigm: ART_el
  -flex: .
