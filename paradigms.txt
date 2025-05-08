@@ -870,29 +870,30 @@
   gloss: ABL
 
 -paradigm: PRON_el
- -flex: él//.el//.ell//.elle//.l
+ -flex: .l//.ll//.lle
   gloss: NOM.SG.M
- -flex: .llo//.lo//.le//.li//.lle//.ly
-  gloss: ACC.SG.M
- -flex: .le//.li//.lle//.ly
-  gloss: DAT.SG.M
- -flex: .ella
+-flex: .lla
   gloss: NOM.SG.F
- -flex: .la//.lla
-  gloss: ACC.SG.F
- -flex: .le//.li//.lle//.ly
-  gloss: DAT.SG.F
- -flex: .ellos
+ -flex: .llos
   gloss: NOM.PL.M
- -flex: .los//.llos
-  gloss: ACC.PL.M
- -flex: .les//.lis//.lles
-  gloss: DAT.PL.M
- -flex: .ellas
+ -flex: .llas
   gloss: NOM.PL.F
- -flex: .las//.llas
+
+ -flex: .lo//.o//.e//.i//.le//.y
+  gloss: ACC.SG.M
+ -flex: .e//.i//.le//.y
+  gloss: DAT.SG.M
+ -flex: .a//.la
+  gloss: ACC.SG.F
+ -flex: .e//.i//.le//.y
+  gloss: DAT.SG.F
+ -flex: .os//.los
+  gloss: ACC.PL.M
+ -flex: .es//.is//.les
+  gloss: DAT.PL.M
+ -flex: .as//.las
   gloss: ACC.PL.F
- -flex: .les//.lis//.lles
+ -flex: .es//.is//.les
   gloss: DAT.PL.F
 
 -paradigm: PRON_poss
