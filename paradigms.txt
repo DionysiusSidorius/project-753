@@ -863,16 +863,39 @@
   gramm: poss,fem,pl
   gloss: POSS.F.PL
 
-
-
-
 -paradigm: PRON_tu
- -flex: .tú//.tu//.tv
+ -flex: .ú//.u//.v
+  gramm: nom
   gloss: NOM
- -flex: .d//.te
-  gloss: ACC,DAT
- -flex: .ti//.ty//.tj
+ -flex: .e
+  gramm: acc
+  gloss: ACC
+ -flex: .e
+  gramm: dat
+  gloss: DAT
+ -flex: .i//.y//.j
+  gramm: abl
   gloss: ABL
+ -flex: .u//.o
+  gramm: poss,sg
+  gloss: POSS.SG
+ -flex: .us//.os
+  gramm: poss,pl
+  gloss: POSS.PL
+ -flex: .uyo
+  gramm: poss,masc,sg
+  gloss: POSS.M.SG
+ -flex: .uyos
+  gramm: poss,masc,pl
+  gloss: POSS.M.PL
+ -flex: .uya//.ua
+  gramm: poss,fem,sg
+  gloss: POSS.F.SG
+ -flex: .uyas//.uas
+  gramm: poss,fem,pl
+  gloss: POSS.F.PL
+
+
 -paradigm: PRON_nos
  -flex: .nos
   gloss: NOM
@@ -935,10 +958,7 @@
 
 -paradigm: PRON_poss
 
- -flex: .tu//.to
-  gloss: POSS.2SG.SG
- -flex: .tus//.tos
-  gloss: POSS.2SG.PL
+ 
  -flex: .su//.so//.ssu/.sso
   gloss: POSS.3SG.SG
  -flex: .sus//.sos//.ssus/.ssos
@@ -960,14 +980,7 @@
   gloss: POSS.2PL.F.SG
  -flex: .vuestras//.uuestras
   gloss: POSS.2PL.F.PL
- -flex: .tuyo
-  gloss: POSS.2SG.M.SG
- -flex: .tuyos
-  gloss: POSS.2SG.M.PL
- -flex: .tuya//.tua
-  gloss: POSS.2SG.F.SG
- -flex: .tuyas//.tuas
-  gloss: POSS.2SG.F.PL
+
 
 -paradigm: ART_el
  -flex: .
