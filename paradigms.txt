@@ -835,12 +835,37 @@
   gloss: F.PL
 
 -paradigm: PRON_yo
- -flex: .yo//.io
-  gloss: NOM
- -flex: .me
+ -flex: .e
+  gramm: acc
   gloss: ACC,DAT
- -flex: .mí//.mi//.mj
+ -flex: .e
+  gramm: dat
+  gloss: DAT
+ -flex: .í//.i//.j
+  gramm: abl
   gloss: ABL
+ -flex: .i//.j
+  gramm: poss,sg
+  gloss: POSS.SG
+ -flex: .is
+  gramm: poss,pl
+  gloss: POSS.PL
+ -flex: .io
+  gramm: poss,masc,sg
+  gloss: POSS.M.SG
+ -flex: .ios
+  gramm: poss,masc,pl
+  gloss: POSS.M.PL
+ -flex: .ia
+  gramm: poss,fem,sg
+  gloss: POSS.F.SG
+ -flex: .ias
+  gramm: poss,fem,pl
+  gloss: POSS.F.PL
+
+
+
+
 -paradigm: PRON_tu
  -flex: .tú//.tu//.tv
   gloss: NOM
@@ -909,10 +934,7 @@
   gloss: DAT.PL.F
 
 -paradigm: PRON_poss
- -flex: .mi//.mj
-  gloss: POSS.1SG.SG
- -flex: .mis
-  gloss: POSS.1SG.PL
+
  -flex: .tu//.to
   gloss: POSS.2SG.SG
  -flex: .tus//.tos
@@ -929,14 +951,7 @@
   gloss: POSS.1PL.F.SG
  -flex: .nuestras//.nostras
   gloss: POSS.1PL.F.PL
- -flex: .mio
-  gloss: POSS.1SG.M.SG
- -flex: .mios
-  gloss: POSS.1SG.M.PL
- -flex: .mia
-  gloss: POSS.1SG.F.SG
- -flex: .mias
-  gloss: POSS.1SG.F.PL
+
  -flex: .vuestro//.uuestro
   gloss: POSS.2PL.M.SG
  -flex: .vuestros//.uuestros
