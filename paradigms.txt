@@ -677,33 +677,106 @@
   gramm: fut,subj,3pl
   gloss: FUT.SUBJ.3PL
 
--paradigm: V_ser
 
- -flex: .ser
+-paradigm: V_serE
+ -flex: .s//.res
+  gloss: PRS.IND.2SG
+ -flex: .s
+  gloss: PRS.IND.3SG
+
+ -flex: .ra
+  gloss: IMPERF.IND.1SG
+ -flex: .ras
+  gloss: IMPERF.IND.2SG
+ -flex: .ra
+  gloss: IMPERF.IND.3SG
+ -flex: .ramos
+  gloss: IMPERF.IND.1PL
+ -flex: .rades
+  gloss: IMPERF.IND.2PL
+ -flex: .ran//.rant//.ram
+  gloss: IMPERF.IND.3PL
+
+
+-paradigm: V_serF
+ -flex: .fu//.fuy
+  gloss: PRET.IND.1SG
+ -flex: .fueste//.fust//.fuste
+  gloss: PRET.IND.2SG
+ -flex: .ffue//.fo//.fue//.fve
+  gloss: PRET.IND.3SG
+ -flex: .fuemos//.fumos
+  gloss: PRET.IND.1PL
+ -flex: .fuestes//.fustes
+  gloss: PRET.IND.2PL
+ -flex: .ffueron//.foron//.fueron//.furon
+  gloss: PRET.IND.3PL
+
+ -flex: .fuera
+  gloss: PQP.IND.1SG
+ -flex: .fueras
+  gloss: PQP.IND.2SG
+ -flex: .fuera
+  gloss: PQP.IND.3SG
+ -flex: .fueramos
+  gloss: PQP.IND.1PL
+ -flex: .fuerades
+  gloss: PQP.IND.2PL
+ -flex: .fueran
+  gloss: PQP.IND.3PL
+
+ -flex: .fuesse//.fuese
+  gloss: IMPERF.SUBJ.1SG
+ -flex: .fuesses//.fueses
+  gloss: IMPERF.SUBJ.2SG
+ -flex: .fuesse//.fuese//.fosse//.fues//.fuess
+  gloss: IMPERF.SUBJ.3SG
+ -flex: .fuessemos//.fuesemos
+  gloss: IMPERF.SUBJ.1PL
+ -flex: .fuessedes//.fuesedes
+  gloss: IMPERF.SUBJ.2PL
+ -flex: .fuessen//.fuesen
+  gloss: IMPERF.SUBJ.3PL
+
+ -flex: .fuer
+  gloss: FUT.SUBJ.1SG
+ -flex: .fores//.fueres
+  gloss: FUT.SUBJ.2SG
+ -flex: .for//.fuer//.fuere//.fure
+  gloss: FUT.SUBJ.3SG
+ -flex: .fueremos
+  gloss: FUT.SUBJ.1PL
+ -flex: .fueredes
+  gloss: FUT.SUBJ.2PL
+ -flex: .foren//.fueren//.furen
+  gloss: FUT.SUBJ.3PL
+
+-paradigm: V_serS
+ -flex: .er
   gloss: INF
- -flex: .seendo//.seyendo//.seyndo//.sseyendo//.syendo
+ -flex: .eendo//.eyendo//.eyndo//.seyendo//.yendo
   gloss: GER
- -flex: .sey
+ -flex: .ey
   gloss: IMP.2SG
- -flex: .seed//.seet//.set
+ -flex: .eed//.eet//.et
   gloss: IMP.2PL
 
 
- -flex: .seido//.seydo//.seyudo
+ -flex: .eido//.eydo//.eyudo
   gloss: PART.M.SG
- -flex: .seida//.seyda//.seyuda
+ -flex: .eida//.eyda//.eyuda
   gloss: PART.F.SG
- -flex: .seidos//.seydos//.seyudos
+ -flex: .eidos//.eydos//.eyudos
   gloss: PART.M.PL
- -flex: .seidas//.seydas//.seyudas
+ -flex: .eidas//.eydas//.eyudas
   gloss: PART.F.PL
 
 
  -flex: .so//.soy
   gloss: PRS.IND.1SG
- -flex: .es//.heres//.eres//.sees//.sies
+ -flex: .sees//.sies
   gloss: PRS.IND.2SG
- -flex: .es//.hes//.see//.sie
+ -flex: .see//.sie
   gloss: PRS.IND.3SG
  -flex: .somos
   gloss: PRS.IND.1PL
@@ -712,43 +785,41 @@
  -flex: .seen//.sien//.sson//.son
   gloss: PRS.IND.3PL
 
- -flex: .fu//.fuy//.soue
+ -flex: .soue
   gloss: PRET.IND.1SG
- -flex: .fueste//.fust//.fuste//.souist
+ -flex: .souist
   gloss: PRET.IND.2SG
- -flex: .ffue//.fo//.fue//.fve//.souo
+ -flex: .souo
   gloss: PRET.IND.3SG
- -flex: .fuemos//.fumos//.souiemos
+ -flex: .souiemos
   gloss: PRET.IND.1PL
- -flex: .fuestes//.fustes//.souiestes
+ -flex: .souiestes
   gloss: PRET.IND.2PL
- -flex: .ffueron//.foron//.fueron//.furon
-  gloss: PRET.IND.3PL
 
- -flex: .era//.seya
+ -flex: .seya
   gloss: IMPERF.IND.1SG
- -flex: .eras//.seyes
+ -flex: .seyes
   gloss: IMPERF.IND.2SG
- -flex: .era//.seye//.sie//.seye
+ -flex: .seye//.sie//.seye
   gloss: IMPERF.IND.3SG
- -flex: .eramos//.seyemos
+ -flex: .seyemos
   gloss: IMPERF.IND.1PL
- -flex: .erades//.seyedes
+ -flex: .seyedes
   gloss: IMPERF.IND.2PL
- -flex: .eran//.erant//.seyen//.syen//.eram
+ -flex: .seyen//.syen
   gloss: IMPERF.IND.3PL
 
- -flex: .fuera//.souiera
+ -flex: .souiera
   gloss: PQP.IND.1SG
- -flex: .fueras//.souieras
+ -flex: .souieras
   gloss: PQP.IND.2SG
- -flex: .fuera//.souiera
+ -flex: .souiera
   gloss: PQP.IND.3SG
- -flex: .fueramos//.souieramos
+ -flex: /.souieramos
   gloss: PQP.IND.1PL
- -flex: .fuerades//.souierades
+ -flex: .souierades
   gloss: PQP.IND.2PL
- -flex: .fueran//.souieran
+ -flex: .souieran
   gloss: PQP.IND.3PL
 
  -flex: .sere
@@ -790,30 +861,11 @@
  -flex: .sean//.seyan
   gloss: PRS.SUBJ.3PL
 
- -flex: .fuesse//.fuese
-  gloss: IMPERF.SUBJ.1SG
- -flex: .fuesses//.fueses
-  gloss: IMPERF.SUBJ.2SG
- -flex: .fuesse//.fuese//.fosse//.fues//.fuess
-  gloss: IMPERF.SUBJ.3SG
- -flex: .fuessemos//.fuesemos
-  gloss: IMPERF.SUBJ.1PL
- -flex: .fuessedes//.fuesedes
-  gloss: IMPERF.SUBJ.2PL
- -flex: .fuessen//.fuesen
-  gloss: IMPERF.SUBJ.3PL
-
- -flex: .fuer
-  gloss: FUT.SUBJ.1SG
- -flex: .fores//.fueres//.souieres
+ -flex: .souieres
   gloss: FUT.SUBJ.2SG
- -flex: .for//.fuer//.fuere//.fure//.souiere
+ -flex: .souiere
   gloss: FUT.SUBJ.3SG
- -flex: .fueremos
-  gloss: FUT.SUBJ.1PL
- -flex: .fueredes
-  gloss: FUT.SUBJ.2PL
- -flex: .foren//.fueren//.furen//.souieren
+ -flex: .souieren
   gloss: FUT.SUBJ.3PL
 
 
