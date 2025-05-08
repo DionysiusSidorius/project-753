@@ -869,16 +869,16 @@
  -flex: .sí//.si//.sj//.sse//.ssi//.ssy//.sy
   gloss: ABL
 
--paradigm: PRON_el
+-paradigm: PRON_el1
  -flex: .l//.ll//.lle
   gloss: NOM.SG.M
--flex: .lla
+ -flex: .lla
   gloss: NOM.SG.F
- -flex: .llos
+  -flex: .llos
   gloss: NOM.PL.M
  -flex: .llas
   gloss: NOM.PL.F
-
+-paradigm: PRON_el2
  -flex: .lo//.o//.e//.i//.le//.y
   gloss: ACC.SG.M
  -flex: .e//.i//.le//.y
