@@ -699,56 +699,56 @@
 
 
 -paradigm: V_serF
- -flex: .fu//.fuy
+ -flex: .u//.uy
   gloss: PRET.IND.1SG
- -flex: .fueste//.fust//.fuste
+ -flex: .ueste//.ust//.uste
   gloss: PRET.IND.2SG
- -flex: .ffue//.fo//.fue//.fve
+ -flex: .fue//.o//.ue//.ve
   gloss: PRET.IND.3SG
- -flex: .fuemos//.fumos
+ -flex: .uemos//.umos
   gloss: PRET.IND.1PL
- -flex: .fuestes//.fustes
+ -flex: .uestes//.ustes
   gloss: PRET.IND.2PL
- -flex: .ffueron//.foron//.fueron//.furon
+ -flex: .fueron//.oron//.ueron//.uron
   gloss: PRET.IND.3PL
 
- -flex: .fuera
+ -flex: .uera
   gloss: PQP.IND.1SG
- -flex: .fueras
+ -flex: .ueras
   gloss: PQP.IND.2SG
- -flex: .fuera
+ -flex: .uera
   gloss: PQP.IND.3SG
- -flex: .fueramos
+ -flex: .ueramos
   gloss: PQP.IND.1PL
- -flex: .fuerades
+ -flex: .uerades
   gloss: PQP.IND.2PL
- -flex: .fueran
+ -flex: .ueran
   gloss: PQP.IND.3PL
 
- -flex: .fuesse//.fuese
+ -flex: .uesse//.uese
   gloss: IMPERF.SUBJ.1SG
- -flex: .fuesses//.fueses
+ -flex: .uesses//.ueses
   gloss: IMPERF.SUBJ.2SG
- -flex: .fuesse//.fuese//.fosse//.fues//.fuess
+ -flex: .uesse//.uese//.osse//.ues//.uess
   gloss: IMPERF.SUBJ.3SG
- -flex: .fuessemos//.fuesemos
+ -flex: .uessemos//.uesemos
   gloss: IMPERF.SUBJ.1PL
- -flex: .fuessedes//.fuesedes
+ -flex: .uessedes//.uesedes
   gloss: IMPERF.SUBJ.2PL
- -flex: .fuessen//.fuesen
+ -flex: .uessen//.uesen
   gloss: IMPERF.SUBJ.3PL
 
- -flex: .fuer
+ -flex: .uer
   gloss: FUT.SUBJ.1SG
- -flex: .fores//.fueres
+ -flex: .ores//.ueres
   gloss: FUT.SUBJ.2SG
- -flex: .for//.fuer//.fuere//.fure
+ -flex: .or//.uer//.uere//.ure
   gloss: FUT.SUBJ.3SG
- -flex: .fueremos
+ -flex: .ueremos
   gloss: FUT.SUBJ.1PL
- -flex: .fueredes
+ -flex: .ueredes
   gloss: FUT.SUBJ.2PL
- -flex: .foren//.fueren//.furen
+ -flex: .oren//.ueren//.uren
   gloss: FUT.SUBJ.3PL
 
 -paradigm: V_serS
@@ -772,100 +772,100 @@
   gloss: PART.F.PL
 
 
- -flex: .so//.soy
+ -flex: .o//.oy
   gloss: PRS.IND.1SG
- -flex: .sees//.sies
+ -flex: .ees//.ies
   gloss: PRS.IND.2SG
- -flex: .see//.sie
+ -flex: .ee//.ie
   gloss: PRS.IND.3SG
- -flex: .somos
+ -flex: .omos
   gloss: PRS.IND.1PL
- -flex: .seedes//.sodes
+ -flex: .eedes//.odes
   gloss: PRS.IND.2PL
- -flex: .seen//.sien//.sson//.son
+ -flex: .een//.ien//.son//.on
   gloss: PRS.IND.3PL
 
- -flex: .soue
+ -flex: .oue
   gloss: PRET.IND.1SG
- -flex: .souist
+ -flex: .ouist
   gloss: PRET.IND.2SG
- -flex: .souo
+ -flex: .ouo
   gloss: PRET.IND.3SG
- -flex: .souiemos
+ -flex: .ouiemos
   gloss: PRET.IND.1PL
- -flex: .souiestes
+ -flex: .ouiestes
   gloss: PRET.IND.2PL
 
- -flex: .seya
+ -flex: .eya
   gloss: IMPERF.IND.1SG
- -flex: .seyes
+ -flex: .eyes
   gloss: IMPERF.IND.2SG
- -flex: .seye//.sie//.seye
+ -flex: .eye//.ie
   gloss: IMPERF.IND.3SG
- -flex: .seyemos
+ -flex: .eyemos
   gloss: IMPERF.IND.1PL
- -flex: .seyedes
+ -flex: .eyedes
   gloss: IMPERF.IND.2PL
- -flex: .seyen//.syen
+ -flex: .eyen//.yen
   gloss: IMPERF.IND.3PL
 
- -flex: .souiera
+ -flex: .ouiera
   gloss: PQP.IND.1SG
- -flex: .souieras
+ -flex: .ouieras
   gloss: PQP.IND.2SG
- -flex: .souiera
+ -flex: .ouiera
   gloss: PQP.IND.3SG
- -flex: /.souieramos
+ -flex: .ouieramos
   gloss: PQP.IND.1PL
- -flex: .souierades
+ -flex: .ouierades
   gloss: PQP.IND.2PL
- -flex: .souieran
+ -flex: .ouieran
   gloss: PQP.IND.3PL
 
- -flex: .sere
+ -flex: .ere
   gloss: FUT.IND.1SG
- -flex: .seras
+ -flex: .eras
   gloss: FUT.IND.2SG
- -flex: .seera//.sera//.ssera
+ -flex: .eera//.era//.sera
   gloss: FUT.IND.3SG
- -flex: .seremos
+ -flex: .eremos
   gloss: FUT.IND.1PL
- -flex: .seredes
+ -flex: .eredes
   gloss: FUT.IND.2PL
- -flex: .seran
+ -flex: .eran
   gloss: FUT.IND.3PL
 
- -flex: .seria
+ -flex: .eria
   gloss: POT.IND.1SG
- -flex: .series
+ -flex: .eries
   gloss: POT.IND.2SG
- -flex: .serie//.seria
+ -flex: .erie//.eria
   gloss: POT.IND.3SG
- -flex: .seriemos
+ -flex: .eriemos
   gloss: POT.IND.1PL
- -flex: .seriedes
+ -flex: .eriedes
   gloss: POT.IND.2PL
- -flex: .serian
+ -flex: .erian
   gloss: POT.IND.3PL
 
- -flex: .sea
+ -flex: .ea
   gloss: PRS.SUBJ.1SG
- -flex: .seas
+ -flex: .eas
   gloss: PRS.SUBJ.2SG
- -flex: .sea//.seya//.ssea
+ -flex: .ea//.eya//.sea
   gloss: PRS.SUBJ.3SG
- -flex: .seamos
+ -flex: .eamos
   gloss: PRS.SUBJ.1PL
- -flex: .seades
+ -flex: .eades
   gloss: PRS.SUBJ.2PL
- -flex: .sean//.seyan
+ -flex: .ean//.eyan
   gloss: PRS.SUBJ.3PL
 
- -flex: .souieres
+ -flex: .ouieres
   gloss: FUT.SUBJ.2SG
- -flex: .souiere
+ -flex: .ouiere
   gloss: FUT.SUBJ.3SG
- -flex: .souieren
+ -flex: .ouieren
   gloss: FUT.SUBJ.3PL
 
 
