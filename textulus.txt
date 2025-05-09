@@ -146,7 +146,7 @@ abiuar:verb,inf
 los:art,def,masc,pl
 saberes:noun,pl
 que:pron
-eran:verb,imp,ind,3pl
+eran:verb,imperf,ind,3pl
 perdidos:verb,part,masc,pl
 al:prep,art,def,masc,sg!!!!!!!!!!!!!!!!
 tyempo:noun,sg
