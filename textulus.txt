@@ -82,9 +82,9 @@ rey:noun,sg
 don:noun,sg
 Alfonso:
 rey:noun,sg
-despanna:prep,noun,sg!!!!!!!!!!!!!!!
+despanna:prep,noun,sg
 fyio:noun,sg
-del:prep,art,def,masc,sg!!!!!!!!!!!!!!!!!
+del:prep,art,def,masc,sg
 muy:adv
 noble:adj,sg
 rey:noun,sg
@@ -148,7 +148,7 @@ saberes:noun,pl
 que:pron
 eran:verb,imperf,ind,3pl
 perdidos:verb,part,masc,pl
-al:prep,art,def,masc,sg!!!!!!!!!!!!!!!!
+al:prep,art,def,masc,sg
 tyempo:noun,sg
 que:conj
 dyos:noun,sg
