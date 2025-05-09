@@ -6,3 +6,11 @@
  bound_position: pre
  gramm: prep
  gloss: PREP
+-clitic
+ lex: a
+ stem: a
+ type: pro
+ pos: clitic
+ bound_position: pre
+ gramm: prep
+ gloss: PREP
