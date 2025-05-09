@@ -420,7 +420,7 @@ sos:pron,3,poss,pl
 
 este:pron,masc,sg
 aquel:pron,masc,sg
-esos:pron,masc,pl
+estos:pron,masc,pl
 ningun:pron,masc,sg
 
 -VERBOS IRREGULARES
