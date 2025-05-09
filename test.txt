@@ -418,10 +418,10 @@ lo:pron,masc,sg,acc
 lle:pron,masc,sg,dat
 sos:pron,poss,masc,pl
 
-este:pron,masc,sing
-aquel:pron,masc,sing
+este:pron,masc,sg
+aquel:pron,masc,sg
 esos:pron,masc,pl
-ningun:pron,masc,sing
+ningun:pron,masc,sg
 
 -VERBOS IRREGULARES
 so:verb,prs,ind,1sg
