@@ -954,7 +954,7 @@
 
 
 
--paradigm: V_ir
+-paradigm: V_irY
 
  -flex: .ir//.yr//.jr
   gramm: inf
@@ -962,9 +962,6 @@
  -flex: .yendo//.yndo
   gramm: ger
   gloss: GER
- -flex: .ue//.ve
-  gramm: imp,2sg
-  gloss: IMP.2SG
  -flex: .id//.ide//.jd//.yd//.yt
   gramm: imp,2pl
   gloss: IMP.2PL
@@ -984,43 +981,12 @@
   gloss: PART.F.PL
 
 
- -flex: .uo
-  gramm: prs,ind,1sg
-  gloss: PRS.IND.1SG
- -flex: .uas
-  gramm: prs,ind,2sg
-  gloss: PRS.IND.2SG
- -flex: .ua
-  gramm: prs,ind,3sg
-  gloss: PRS.IND.3SG
  -flex: .ymos
   gramm: prs,ind,1pl
   gloss: PRS.IND.1PL
  -flex: .ydes
   gramm: prs,ind,2pl
   gloss: PRS.IND.2PL
- -flex: .uan//.van
-  gramm: prs,ind,3pl
-  gloss: PRS.IND.3PL
-
- -flex: .fu//.fuy
-  gramm: pret,ind,1sg
-  gloss: PRET.IND.1SG
- -flex: .fust
-  gramm: pret,ind,2sg
-  gloss: PRET.IND.2SG
- -flex: .ffue//.fu//.fue//.fve
-  gramm: pret,ind,3sg
-  gloss: PRET.IND.3SG
- -flex: .fuemos//.fumos
-  gramm: pret,ind,1pl
-  gloss: PRET.IND.1PL
- -flex: .fustes
-  gramm: pret,ind,2pl
-  gloss: PRET.IND.2PL
- -flex: .fueron//.fveron
-  gramm: pret,ind,3pl
-  gloss: PRET.IND.3PL
 
  -flex: .yua
   gramm: imperf,ind,1sg
@@ -1040,25 +1006,6 @@
  -flex: .yuan
   gramm: imperf,ind,3pl
   gloss: IMPERF.IND.3PL
-
- -flex: .fuera
-  gramm: pqp,ind,1sg
-  gloss: PQP.IND.1SG
- -flex: .fueras
-  gramm: pqp,ind,2sg
-  gloss: PQP.IND.2SG
- -flex: .fuera
-  gramm: pqp,ind,3sg
-  gloss: PQP.IND.3SG
- -flex: .fueramos
-  gramm: pqp,ind,1pl
-  gloss: PQP.IND.1PL
- -flex: .fuerades
-  gramm: pqp,ind,2pl
-  gloss: PQP.IND.2PL
- -flex: .fueran
-  gramm: pqp,ind,3pl
-  gloss: PQP.IND.3PL
 
  -flex: .yre
   gramm: fut,ind,1sg
@@ -1098,24 +1045,45 @@
   gramm: pot,ind,3pl
   gloss: POT.IND.3PL
 
- -flex: .uaya
-  gramm: prs,subj,1sg
-  gloss: PRS.SUBJ.1SG
- -flex: .uayas
-  gramm: prs,subj,2sg
-  gloss: PRS.SUBJ.2SG
- -flex: .uaya
-  gramm: prs,subj,3sg
-  gloss: PRS.SUBJ.3SG
- -flex: .uayamos
-  gramm: prs,subj,1pl
-  gloss: PRS.SUBJ.1PL
- -flex: .uayades
-  gramm: prs,subj,2pl
-  gloss: PRS.SUBJ.2PL
- -flex: .uayan
-  gramm: prs,subj,3pl
-  gloss: PRS.SUBJ.3PL
+-paradigm: V_irF
+
+ -flex: .fu//.fuy
+  gramm: pret,ind,1sg
+  gloss: PRET.IND.1SG
+ -flex: .fust
+  gramm: pret,ind,2sg
+  gloss: PRET.IND.2SG
+ -flex: .ffue//.fu//.fue//.fve
+  gramm: pret,ind,3sg
+  gloss: PRET.IND.3SG
+ -flex: .fuemos//.fumos
+  gramm: pret,ind,1pl
+  gloss: PRET.IND.1PL
+ -flex: .fustes
+  gramm: pret,ind,2pl
+  gloss: PRET.IND.2PL
+ -flex: .fueron//.fveron
+  gramm: pret,ind,3pl
+  gloss: PRET.IND.3PL
+
+ -flex: .fuera
+  gramm: pqp,ind,1sg
+  gloss: PQP.IND.1SG
+ -flex: .fueras
+  gramm: pqp,ind,2sg
+  gloss: PQP.IND.2SG
+ -flex: .fuera
+  gramm: pqp,ind,3sg
+  gloss: PQP.IND.3SG
+ -flex: .fueramos
+  gramm: pqp,ind,1pl
+  gloss: PQP.IND.1PL
+ -flex: .fuerades
+  gramm: pqp,ind,2pl
+  gloss: PQP.IND.2PL
+ -flex: .fueran
+  gramm: pqp,ind,3pl
+  gloss: PQP.IND.3PL
 
  -flex: .fuesse//.fuese
   gramm: imperf,subj,1sg
@@ -1154,6 +1122,46 @@
  -flex: .fueren
   gramm: fut,subj,3pl
   gloss: FUT.SUBJ.3PL
+
+-paradigm: V_irV
+
+ -flex: .ue//.ve
+  gramm: imp,2sg
+  gloss: IMP.2SG
+
+ -flex: .uo
+  gramm: prs,ind,1sg
+  gloss: PRS.IND.1SG
+ -flex: .uas
+  gramm: prs,ind,2sg
+  gloss: PRS.IND.2SG
+ -flex: .ua
+  gramm: prs,ind,3sg
+  gloss: PRS.IND.3SG
+ -flex: .uan//.van
+  gramm: prs,ind,3pl
+  gloss: PRS.IND.3PL
+
+
+ -flex: .uaya
+  gramm: prs,subj,1sg
+  gloss: PRS.SUBJ.1SG
+ -flex: .uayas
+  gramm: prs,subj,2sg
+  gloss: PRS.SUBJ.2SG
+ -flex: .uaya
+  gramm: prs,subj,3sg
+  gloss: PRS.SUBJ.3SG
+ -flex: .uayamos
+  gramm: prs,subj,1pl
+  gloss: PRS.SUBJ.1PL
+ -flex: .uayades
+  gramm: prs,subj,2pl
+  gloss: PRS.SUBJ.2PL
+ -flex: .uayan
+  gramm: prs,subj,3pl
+  gloss: PRS.SUBJ.3PL
+
 
 
 
