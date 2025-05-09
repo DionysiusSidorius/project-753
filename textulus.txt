@@ -216,8 +216,8 @@ saber:noun,sg
 en:prep
 connocer:verb,inf
 las:art,def,fem,pl
-significationes:nom,pl
+significationes:noun,pl
 destos:prep,pron,masc,pl!!!!!!!!!!
-corpos:nom,pl
+corpos:noun,pl
 celestiales:adj,pl
 sobredichos:adj,masc,pl
