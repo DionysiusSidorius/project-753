@@ -422,3 +422,16 @@ este
 aquel
 esos
 ningun
+
+-VERBOS IRREGULARES
+so
+uo
+he
+se
+
+fue
+yua
+vuo
+
+sey
+ve
