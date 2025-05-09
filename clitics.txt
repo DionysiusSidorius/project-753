@@ -21,7 +21,15 @@
  pos: clitic
  bound_position: post
  gramm: 3,masc,sg,acc
- gloss: PREP
+ gloss: PRON.3.MASC.SG.ACC
+-clitic
+ lex: el
+ stem: l
+ type: en
+ pos: clitic
+ bound_position: post
+ gramm: art,masc,sg
+ gloss: ART.MASC.SG
 -clitic
  lex: tú
  stem: d
