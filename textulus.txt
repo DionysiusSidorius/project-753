@@ -6,7 +6,7 @@ en:prep
 el:art,def,masc,sg
 almageste:noun,sg
 non:adv
-morro:???????????????
+morro:verb,pret,ind,3sg
 el:pron,3,masc,sg,nom
 qui:pron
 abiuo:verb,pret,ind,3sg
@@ -26,7 +26,7 @@ a:prep
 entendemiento:noun,sg
 onde:adv
 en:prep
-quanto:adv?????
+quanto:adv
 el:art,def,masc,sg
 angel:noun,sg
 es:verb,prs,ind,3sg
