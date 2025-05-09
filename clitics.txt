@@ -28,8 +28,8 @@
  type: en
  pos: clitic
  bound_position: post
- gramm: art,masc,sg
- gloss: ART.MASC.SG
+ gramm: art,def,masc,sg
+ gloss: ART.DEF.MASC.SG
 -clitic
  lex: tú
  stem: d
