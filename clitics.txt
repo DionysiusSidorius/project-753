@@ -14,3 +14,11 @@
  bound_position: pre
  gramm: prep
  gloss: PREP
+-clitic
+ lex: el
+ stem: l
+ type: en
+ pos: clitic
+ bound_position: post
+ gramm: 3,masc,sg,acc
+ gloss: PREP
