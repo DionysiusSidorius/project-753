@@ -1169,16 +1169,16 @@
 
 -paradigm: PRON
  -flex: .e//.//.o
-  gramm: m,sg
+  gramm: masc,sg
   gloss: M.SG
  -flex: .a
-  gramm: f,sg
+  gramm: fem,sg
   gloss: F.SG
  -flex: .os//.es
-  gramm: m,pl
+  gramm: masc,pl
   gloss: M.PL
  -flex: .as
-  gramm: f,pl
+  gramm: fem,pl
   gloss: F.PL
 
 -paradigm: PRON_yo
