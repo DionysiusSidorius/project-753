@@ -1,0 +1,6 @@
+-clitic
+ lex: de
+ stem: d
+ type: pro
+ gramm: prep
+ gloss: PREP
