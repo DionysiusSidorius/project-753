@@ -424,14 +424,14 @@ esos:pron,masc,pl
 ningun:pron,masc,sing
 
 -VERBOS IRREGULARES
-so:
-uo:
-he:
-se:
+so:prs,ind,1sg
+uo:prs,ind,1sg
+he:prs,ind,1sg
+se:prs,ind,1sg
 
-fue:
-yua:
-vuo:
+fue:pret,ind,1sg
+yua:imperf,ind,1sg
+vuo:pret,ind,3sg
 
-sey:
-ve:
+sey:imp,2sg
+ve:imp,2sg
