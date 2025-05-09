@@ -217,7 +217,7 @@ en:prep
 connocer:verb,inf
 las:art,def,fem,pl
 significationes:noun,pl
-destos:prep,pron,masc,pl!!!!!!!!!!
+destos:prep,pron,masc,pl
 corpos:noun,pl
 celestiales:adj,pl
 sobredichos:adj,masc,pl
