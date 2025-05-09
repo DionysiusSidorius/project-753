@@ -416,7 +416,7 @@ vuestro:pron,2pl,poss,masc,sg
 ella:pron,fem,sg,nom
 lo:pron,masc,sg,acc
 lle:pron,masc,sg,dat
-sos:pron,poss,masc,pl
+sos:pron,3,poss,pl
 
 este:pron,masc,sg
 aquel:pron,masc,sg
@@ -429,7 +429,7 @@ uo:verb,prs,ind,1sg
 he:verb,prs,ind,1sg
 se:verb,prs,ind,1sg
 
-fue:verb,pret,ind,1sg
+fue:verb,pret,ind,3sg
 yua:verb,imperf,ind,1sg
 vuo:verb,pret,ind,3sg
 
