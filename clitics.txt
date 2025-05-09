@@ -2,5 +2,7 @@
  lex: de
  stem: d
  type: pro
+ pos: clitic
+ bound_position: pre
  gramm: prep
  gloss: PREP
