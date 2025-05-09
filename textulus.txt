@@ -195,7 +195,7 @@ de:prep
 los:art
 corpos:noun,pl
 de:prep
-suso:nom,sg
+suso:noun,sg
 que:pron
 son:verb
 los:art
