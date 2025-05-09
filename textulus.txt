@@ -49,7 +49,7 @@ grand:adj,sg
 saber:noun,sg
 que:conj
 dyos:noun,sg
-li:pron,3,sg,dat
+li:pron,3,masc,sg,dat
 dyo:verb,pret,ind,3sg
 assi:adv
 el:art,def,masc,sg
