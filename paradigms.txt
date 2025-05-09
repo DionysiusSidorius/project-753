@@ -1309,7 +1309,7 @@
  -flex: .lla
   gramm: nom,sg,fem
   gloss: NOM.SG.F
-  -flex: .llos
+ -flex: .llos
   gramm: nom,pl,masc
   gloss: NOM.PL.M
  -flex: .llas
