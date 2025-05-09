@@ -413,9 +413,9 @@ nuestro:pron,1pl,poss,masc,sg
 vos:pron,2pl,nom
 vuestro:pron,2pl,poss,masc,sg
 
-ella:pron,fem,sg,nom
-lo:pron,masc,sg,acc
-lle:pron,masc,sg,dat
+ella:pron,3,fem,sg,nom
+lo:pron,3,masc,sg,acc
+lle:pron,3,masc,sg,dat
 sos:pron,3,poss,pl
 
 este:pron,masc,sg
