@@ -22,3 +22,11 @@
  bound_position: post
  gramm: 3,masc,sg,acc
  gloss: PREP
+-clitic
+ lex: tú
+ stem: d
+ type: en
+ pos: clitic
+ bound_position: post
+ gramm: pron,2sg,acc
+ gloss: PRON.2SG.ACC
