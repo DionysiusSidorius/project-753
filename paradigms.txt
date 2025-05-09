@@ -332,7 +332,7 @@
  -flex: .io//.yo//.jo
   gramm: pret,ind,3sg
   gloss: PRET.IND.3SG
- -flex: .imos
+ -flex: .imos//.iemos
   gramm: pret,ind,1pl
   gloss: PRET.IND.1PL
  -flex: .istes
@@ -534,7 +534,7 @@
  -flex: .io.yo//.jo
   gramm: pret,ind,3sg
   gloss: PRET.IND.3SG
- -flex: .imos
+ -flex: .imos//.iemos
   gramm: pret,ind,1pl
   gloss: PRET.IND.1PL
  -flex: .istes
