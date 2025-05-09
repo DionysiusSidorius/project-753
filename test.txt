@@ -397,41 +397,41 @@ encendudas:part,fem,pl,verb
 presas:part,fem,pl,verb
 
 -PRONOMBRES
-yo
-me
-mi
-mia
+yo:pron,1sg,nom
+me:pron,1sg,acc
+mi:pron,1sg,abl
+mia:pron,1sg,poss,fem,sg
 
-tu
-te
-ti
-tuyos
+tu:pron,2sg,nom
+te:pron,2sg,acc
+ti:pron,2sg,abl
+tuyos:pron,2sg,poss,masc,pl
 
-nos
-nuestro
+nos:pron,1pl,nom
+nuestro:pron,1pl,poss,masc,sg
 
-vos
-vuestro
+vos:pron,2pl,nom
+vuestro:pron,2sg,poss,masc,sg
 
-ella
-lo
-lle
-sos
+ella:pron,3,fem,sg,nom
+lo:pron,3,masc,sg,acc
+lle:pron,3,masc,sg,dat
+sos:pron,3,poss,masc,pl
 
-este
-aquel
-esos
-ningun
+este:pron,masc,sing
+aquel:pron,masc,sing
+esos:pron,masc,pl
+ningun:pron,masc,sing
 
 -VERBOS IRREGULARES
-so
-uo
-he
-se
+so:
+uo:
+he:
+se:
 
-fue
-yua
-vuo
+fue:
+yua:
+vuo:
 
-sey
-ve
+sey:
+ve:
