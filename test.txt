@@ -411,12 +411,12 @@ nos:pron,1pl,nom
 nuestro:pron,1pl,poss,masc,sg
 
 vos:pron,2pl,nom
-vuestro:pron,2sg,poss,masc,sg
+vuestro:pron,2pl,poss,masc,sg
 
-ella:pron,3,fem,sg,nom
-lo:pron,3,masc,sg,acc
-lle:pron,3,masc,sg,dat
-sos:pron,3,poss,masc,pl
+ella:pron,fem,sg,nom
+lo:pron,masc,sg,acc
+lle:pron,masc,sg,dat
+sos:pron,poss,masc,pl
 
 este:pron,masc,sing
 aquel:pron,masc,sing
@@ -424,14 +424,14 @@ esos:pron,masc,pl
 ningun:pron,masc,sing
 
 -VERBOS IRREGULARES
-so:prs,ind,1sg
-uo:prs,ind,1sg
-he:prs,ind,1sg
-se:prs,ind,1sg
+so:verb,prs,ind,1sg
+uo:verb,prs,ind,1sg
+he:verb,prs,ind,1sg
+se:verb,prs,ind,1sg
 
-fue:pret,ind,1sg
-yua:imperf,ind,1sg
-vuo:pret,ind,3sg
+fue:verb,pret,ind,1sg
+yua:verb,imperf,ind,1sg
+vuo:verb,pret,ind,3sg
 
-sey:imp,2sg
-ve:imp,2sg
+sey:verb,imp,2sg
+ve:verb,imp,2sg
